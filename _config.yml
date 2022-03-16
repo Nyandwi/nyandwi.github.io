@@ -1,14 +1,14 @@
-title: Alfredo Canziani
+title: Jean de Dieu Nyandwi
 plugins:
   - jekyll-remote-theme
 remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    twitter: alfcnz
-    github:  Atcold
-    youtube_channel: UCupQLyNchb9-2Z5lmUOIijw
-    youtube_channel_name: Alfredo Canziani
+    twitter: Jeande_d
+    github:  Nyandwi
+    youtube_channel: UCRUFwFhet7BmEojTpbfkenA
+    youtube_channel_name: Deep Learning Revision
 google_analytics: G-NGQWNXRS74
 highlighter: rouge
 kramdown:
