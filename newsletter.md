@@ -3,4 +3,6 @@ layout: page
 title: Newsletter
 ---
 
-<p class="warning">Upcoming!</p>
+<p class="warning">Coming soon!</p>
+
+

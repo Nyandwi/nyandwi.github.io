@@ -9,7 +9,7 @@ minima:
     github:  Nyandwi
     youtube_channel: UCRUFwFhet7BmEojTpbfkenA
     youtube_channel_name: Deep Learning Revision
-google_analytics: G-NGQWNXRS74
+google_analytics: 
 highlighter: rouge
 kramdown:
     math_engine: katex

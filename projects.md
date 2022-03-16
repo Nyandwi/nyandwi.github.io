@@ -3,4 +3,4 @@ layout: page
 title: Projects
 ---
 
-TBD
+<p class="warning">Coming soon!</p>
