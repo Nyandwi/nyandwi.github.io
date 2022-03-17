@@ -18,7 +18,7 @@ That's the motivation for early stopping.
 
 With early stopping, we can stop the training when there are no improvements in the validation metrics.
 
-![Early stopping](/assets/images/early-stop.png)
+![Early stopping](/_assets/images/early-stop.png)
 
 *Early stopping. Image by Author*
 
