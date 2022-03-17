@@ -18,9 +18,9 @@ Other intensive learning materials I designed include revisions and implementati
 
 This site is a host of my works and writings. You can find my old articles on [Medium](https://jeande.medium.com/) or [HashNode](https://hashnode.com/). Occassionally, I create threads and share learning resources on [Twitter](https://github.com/Nyandwi)!
 
-[I am still working on this site]
+*******
 
-I stolen the template here.
+I stole the template [here](https://atcold.github.io).
 
 
 
