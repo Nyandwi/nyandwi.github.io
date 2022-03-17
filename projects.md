@@ -1,6 +1,25 @@
 ---
 layout: page
-title: Projects
+title: Resources
 ---
 
-<p class="warning">Coming soon!</p>
+## Comprehensive Learning Resources(from me)
+* [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete)
+* [Modern Convolutional Neural Networks](https://github.com/Nyandwi/ModernConvNets)
+* [Basic of Python](https://github.com/Nyandwi/PythonBasics)
+* [Python Pro Features - unfinished work](https://github.com/Nyandwi/PythonPro)
+
+## Machine Learning Courses
+
+A curated list of some few awesome machine learning courses by categories.
+
+### Foundational Courses
+* [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning?specialization=tensorflow-in-practice)
+* [CS229: Machine Learning](http://cs229.stanford.edu)
+
+### Deep Learning Courses
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+* [NYU Deep Learning](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+* [MIT Intro to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+More courses to be added later.
