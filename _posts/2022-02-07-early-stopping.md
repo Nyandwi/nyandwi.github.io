@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Early Stopping Explained!
-permalink: early-stopping
+permalink: /early-stopping/
 ---
 
 Early stopping is one of the effective and simplest regularization techniques used in training neural networks.
