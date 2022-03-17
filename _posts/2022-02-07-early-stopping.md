@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Early Stopping Explained!
+permalink: early-stopping
 ---
 
 Early stopping is one of the effective and simplest regularization techniques used in training neural networks.
@@ -17,7 +18,8 @@ That's the motivation for early stopping.
 
 With early stopping, we can stop the training when there are no improvements in the validation metrics.
 
-![Early stopping](https://github.com/Nyandwi/nyandwi.github.io/blob/8c5dad19085eab6a2aeb7ff00a67961a41aa259d/assets/images/early-stop.png)
+![Early stopping](/assets/images/early-stop.png)
+
 *Early stopping. Image by Author*
 
 Another interesting thing about early stopping is that it can allow restoring the best model weights at the epoch/iteration where the validation loss was at the minimum point.
