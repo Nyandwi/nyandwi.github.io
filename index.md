@@ -6,6 +6,7 @@ layout: page
 ![My face](https://avatars.githubusercontent.com/u/52796597?v=4)
 </span>
 
+<!-- hide -->
 ## About me
 
 I'm Jean de Dieu Nyandwi. I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
