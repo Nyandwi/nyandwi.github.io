@@ -3,8 +3,7 @@ layout: page
 ---
 <div class="post-content">
     <p><a href="https://github.com/Nyandwi/nyandwi" target="_blank">
-	<img alt="Jean de Dieu Nyandwi" src="images/jean-passpic.png" style="float: right; max-width: 35%; margin: 0 0 1em 2em; border-radius: 999px" />
-</a></p>
+	<img alt="Jean de Dieu Nyandwi" src="images/jean-passpic.png" style="float: right; max-width: 35%; margin: 0 0 1em 2em; border-radius: 999px" /> </a> </p>
 
 <!-- <span style="display:block; margin-top:-30px;">
 ![My face](/images/jean-passpic.png)
