@@ -8,10 +8,9 @@ minima:
     twitter: Jeande_d
     github:  Nyandwi
     linkedin: nyandwi
-    medium: jeande
     youtube_channel: UCRUFwFhet7BmEojTpbfkenA
     youtube_channel_name: Deep Learning Revision
-google_analytics: 
+google_analytics: G-W0PE5HT9JD
 highlighter: rouge
 kramdown:
     math_engine: katex
