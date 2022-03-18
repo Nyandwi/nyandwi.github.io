@@ -1,11 +1,14 @@
 ---
 layout: page
 ---
+<div class="post-content">
+    <p><a href="https://github.com/Nyandwi/nyandwi" target="_blank">
+	<img alt="Jean de Dieu Nyandwi" src="images/jean-passpic.png" style="float: right; max-width: 35%; margin: 0 0 1em 2em; border-radius: 999px" />
+</a></p>
 
 <!-- <span style="display:block; margin-top:-30px;">
 ![My face](/images/jean-passpic.png)
 </span> -->
-![My face](/images/jean-passpic.png)
 
 I'm Jean de Dieu Nyandwi. I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
 
@@ -19,7 +22,7 @@ This site is a host of my works and writings. You can find my old articles on [M
 
 *******
 
-I stole the template of this site [here](https://atcold.github.io).
+Template stolen [here](https://atcold.github.io).
 
 
 
