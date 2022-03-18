@@ -2,12 +2,10 @@
 layout: page
 ---
 
-<span style="display:block; margin-top:-30px;">
+<!-- <span style="display:block; margin-top:-30px;">
 ![My face](/images/jean-passpic.png)
-</span>
-
-<!-- hide -->
-## About me
+</span> -->
+![My face](/images/jean-passpic.png)
 
 I'm Jean de Dieu Nyandwi. I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
 
