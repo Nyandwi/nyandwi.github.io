@@ -20,10 +20,6 @@ Other intensive learning materials I designed include revisions and implementati
 
 This site is a host of my works and writings. You can find my old articles on [Medium](https://jeande.medium.com/) or [Hashnode](https://hashnode.com/). Occassionally, I create threads and share learning resources on [Twitter](https://twitter.com/jeande_d). I am also on [LinkedIn](https://www.linkedin.com/in/nyandwi/).
 
-*******
-
-[Stolen site](https://atcold.github.io)
-
 
 
 
