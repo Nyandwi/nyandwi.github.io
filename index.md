@@ -22,7 +22,7 @@ This site is a host of my works and writings. You can find my old articles on [M
 
 *******
 
-Template stolen [here](https://atcold.github.io).
+[Stolen site](https://atcold.github.io)
 
 
 
