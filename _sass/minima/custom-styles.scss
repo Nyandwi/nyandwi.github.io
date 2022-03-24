@@ -12,7 +12,7 @@
   line-height: 80%;
   margin-top: 15pt;
   margin-bottom: 15pt;
-  color: #fefefe !important;
+  color: #020f18 !important;
   text-decoration: none !important;
 }
 
@@ -24,11 +24,11 @@
  * Titles
  */
 h1 {
-  color: $lavender;
+  color: #074774;
 }
 
 h2 {
-  color: $pink;
+  color: #074774;
 }
 
 /**
@@ -44,10 +44,10 @@ h2 {
 }
 
 .post-content a, .post-link {
-  color: #8dd3c7 !important;
+  color: #216aab !important;
 }
 
-$link-base-color: #8dd3c7 !default;
+$link-base-color: #216aab !default;
 
 // .post-link {
 //   color: #8dd3c7 !important;
