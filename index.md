@@ -18,8 +18,9 @@ I designed a [Complete Machine Learning Package](https://github.com/Nyandwi/mach
 
 Other intensive learning materials I designed include revisions and implementations of [Modern Convolutional Neural Network Architectures](https://github.com/Nyandwi/ModernConvNets) and a [friendly introduction to Python tutorial](https://github.com/Nyandwi/PythonBasics)!
 
-This site is a host of my works and writings. You can find my old articles on [Medium](https://jeande.medium.com/) or [Hashnode](https://hashnode.com/). Occassionally, I create threads and share learning resources on [Twitter](https://twitter.com/jeande_d). I am also on [LinkedIn](https://www.linkedin.com/in/nyandwi/).
+This site is a host of my [works](https://github.com/Nyandwi) and [writings](https://nyandwi.github.io/blog.html). You can find my old articles on [Medium](https://jeande.medium.com/) or [Hashnode](https://hashnode.com/). Occassionally, I create threads and share learning resources on [Twitter](https://twitter.com/jeande_d). I am also on [LinkedIn](https://www.linkedin.com/in/nyandwi/).
 
+I am always happy to connect with new people. If you would like to collaborate, you can reach me at [johnjw7084@gmail.com](mailto:johnjw7084@gmail.com).
 
 
 

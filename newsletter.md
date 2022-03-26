@@ -4,7 +4,7 @@ title: Newsletter
 ---
 <!-- <p class="warning">Coming soon!</p> -->
 
-This page is reserved for Deep Learning Revision newsletter! You can subscribe here to be in the first that will receive the first issue!
+This page is reserved for [Deep Learning Revision](https://www.getrevue.co/profile/deeprevision) newsletter! You can subscribe below to be in the first that will receive the first issue!
 
 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/deeprevision/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
