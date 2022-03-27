@@ -24,8 +24,10 @@ Key takeaways:
 * Using ReLU can avoid the gradients to vanish.
 * Avoid using a sigmoid and hyperbolic tangent function(tanh) as they can cause the gradients to vanish.
 
-******
+*******
+
 Thanks for reading!
 
 Each week, with a probability of 80%, I write one article about machine learning techniques, ideas, or best practices.
+
 If you found the article helpful, share it with anyone who you think would benefit from it, connect with me on  [Twitter](https://twitter.com/Jeande_d), or join my  [newsletter](https://www.getrevue.co/profile/deeprevision).
