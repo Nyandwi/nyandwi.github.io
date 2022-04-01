@@ -3,7 +3,7 @@ layout: page
 title: Tutocode
 ---
 
-I spend so much time writing and designing code-cased tutorials. Expressing complex techniques and concepts into codes and simple words make them so simple to understand. Below are some of the codes tutorials I designed.
+I spend so much time writing and designing code-based tutorials. Expressing complex techniques and concepts into codes and simple words make them so simple to understand. Below are some of the codes tutorials I designed.
 
 ### Code Tutorials
 
