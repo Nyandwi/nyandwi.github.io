@@ -3,7 +3,7 @@ layout: page
 ---
 <div class="post-content">
     <p><a href="https://github.com/Nyandwi/nyandwi" target="_blank">
-	<img alt="Jean de Dieu Nyandwi" src="images/profile.jpg" style="float:middle; width: 60%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px" /> </a></p>
+	<img alt="Jean de Dieu Nyandwi" src="images/profile.jpg" style="float:middle; width: 50%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px" /> </a></p>
  </div>
 
 I'm Jean de Dieu Nyandwi. I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
