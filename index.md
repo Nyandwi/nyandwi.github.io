@@ -3,12 +3,8 @@ layout: page
 ---
 <div class="post-content">
     <p><a href="https://github.com/Nyandwi/nyandwi" target="_blank">
-	<img alt="Jean de Dieu Nyandwi" src="images/jean-passpic.png" style="float: right; max-width: 35%; margin: 0 0 1em 2em; border-radius: 999px" /> </a> </p>
+	<img alt="Jean de Dieu Nyandwi" src="images/profile.jpg" style="float:middle; width: 60%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px" /> </a></p>
  </div>
-
-<!-- <span style="display:block; margin-top:-30px;">
-![My face](/images/jean-passpic.png)
-</span> -->
 
 I'm Jean de Dieu Nyandwi. I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
 
@@ -20,7 +16,7 @@ Other intensive learning materials I designed include revisions and implementati
 
 This site is a host of my [works](https://github.com/Nyandwi) and [writings](https://nyandwi.github.io/blog.html). You can find my old articles on [Medium](https://jeande.medium.com/) or [Hashnode](https://hashnode.com/). Occassionally, I create threads and share learning resources on [Twitter](https://twitter.com/jeande_d). I am also on [LinkedIn](https://www.linkedin.com/in/nyandwi/).
 
-I am always happy to connect with new people. If you would like to collaborate, you can reach me at [johnjw7084@gmail.com](mailto:johnjw7084@gmail.com).
+I am always open for collaboration. If you'ld like to collaborate, you can reach me through [johnjw7084@gmail.com](mailto:johnjw7084@gmail.com).
 
 
 
