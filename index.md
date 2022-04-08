@@ -7,14 +7,14 @@ layout: page
  </div>
 
 <div
-    <center> <h1> Jean de Dieu Nyandwi </h1>
-    <p>I like research and engineering!</p>
+<center> <h1> Jean de Dieu Nyandwi </h1>
+<p>I like research and engineering!</p>
 
-    <a href="https://github.com/Nyandwi/nyandwi" target="_blank"> Github </a> | 
-    <a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> | 
-    <a href="mailto:johnjw7084@gmail.com" target="_blank"> Email </a>
-    <hr>
-    </center>
+<a href="https://github.com/Nyandwi/nyandwi" target="_blank"> Github </a> | 
+<a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> | 
+<a href="mailto:johnjw7084@gmail.com" target="_blank"> Email </a>
+<hr>
+</center>
 </div>
 
 I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
