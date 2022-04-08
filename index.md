@@ -12,7 +12,7 @@ layout: page
 <a href="https://github.com/Nyandwi" target="_blank"> Github </a> | 
 <a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> | 
 <a href="mailto:johnjw7084@gmail.com" target="_blank"> Email </a>
-<hr width=60%” align="center">
+<hr width=60%”>
 </center>
 
 I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
