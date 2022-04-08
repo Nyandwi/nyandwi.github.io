@@ -6,7 +6,16 @@ layout: page
 	<img alt="Jean de Dieu Nyandwi" src="images/profile.jpg" style="float:middle; width: 50%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px" /> </a></p>
  </div>
 
-I'm Jean de Dieu Nyandwi. I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
+<center> <h1> Jean de Dieu Nyandwi </h1>
+<p>I like research and engineering!</p>
+
+[Twitter](https://twitter.com/Jeande_d) | [Github](https://github.com/Nyandwi) | [Email](mailto:johnjw7084@gmail.com)
+</center>
+
+ 
+ **********
+
+I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
 
 Previously, I worked at VIEBEG Medical Ltd and instructed TensorFlow Deep Learning Certification course at The Python Academy.
 
