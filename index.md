@@ -9,7 +9,9 @@ layout: page
 <center> <h1> Jean de Dieu Nyandwi </h1>
 <p>I like research and engineering!</p>
 
-[Twitter](https://twitter.com/Jeande_d) | [Github](https://github.com/Nyandwi) | [Email](mailto:johnjw7084@gmail.com)
+<a href="https://github.com/Nyandwi/nyandwi" target="_blank"> Github </a> | 
+<a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> | 
+<a href="mailto:johnjw7084@gmail.com" target="_blank"> Email </a>
 </center>
 
  
