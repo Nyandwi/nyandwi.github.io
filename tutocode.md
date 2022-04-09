@@ -3,7 +3,7 @@ layout: page
 title: Tutocode
 ---
 
-I spend so much time writing and designing code-based tutorials. Expressing complex techniques and concepts into codes and simple words make them so simple to understand. Below are some of the codes tutorials I designed.
+I like to write and design code tutorials that simplify complex techniques and concepts. Below are some of the codes tutorials I designed.
 
 #### Complete Machine Learning Package
 [[Github](https://github.com/Nyandwi/machine_learning_complete)] [[Nbviewer](https://nbviewer.jupyter.org/github/Nyandwi/machine_learning_complete)] [[Colab](https://colab.research.google.com/github/Nyandwi/machine_learning_complete)] [[Deepnote](https://deepnote.com/project/machinelearningcomplete-4vpZ-iGjRUeXCQpL5zcIsw/%2Fmachine_learning_complete%2F5_intro_to_machine_learning%2F5_intro_to_machine_learning.ipynb)]
