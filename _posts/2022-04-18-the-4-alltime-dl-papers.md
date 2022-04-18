@@ -44,7 +44,7 @@ Subsequent detectors improved performance and speed by replacing traditional reg
 
 Before ResNet, it was hard to train extremely large networks(over 100 and 1000 layers), and almost nobody understood why. People thought that large networks overfit, but it was not actually the case.
 
-ResNet influenced the design of neural network architectures, and not just only for vision but also for [language architectures](https://arxiv.org/abs/2203.00555). After ResNet introduced and proved that residual connections help the large network to converge faster, most new ConvNet architectures had some residual components. Everything became ResNet++[^1].
+ResNet influenced the design of neural network architectures, and not just only for vision but also for [language architectures](https://arxiv.org/abs/2203.00555). After ResNet introduced and proved that residual connections help the large network to converge faster, most new ConvNet architectures had some residual components. Everything became ResNet++![^1].
 
 ResNet explored and answered a very important problem: ***is learning better networks as easy as stacking more layers?***. I wrote more about that problem [here](https://twitter.com/Jeande_d/status/1501188533897216003?s=20&t=SzR9og0teCX5-COmPDKbZw).
 
@@ -72,5 +72,6 @@ For further learning, you can read the paper we discussed:
 - [Transformer, Attention is All you Need](https://arxiv.org/abs/1706.03762)
 
 
-Footnotes:
+#### Footnotes
+
 [^1]: Hat tip to Saining He for the term ResNet++ in his [presentation about ConvNeXt](https://rosanneliu.com/dlctfs/dlct_220225.pdf)
