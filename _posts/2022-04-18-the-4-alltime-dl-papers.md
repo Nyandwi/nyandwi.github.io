@@ -74,4 +74,4 @@ For further learning, you can read the paper we discussed:
 
 #### Footnotes
 
-[^1]: Hat tip to Saining He for the term ResNet++ in his [presentation about ConvNeXt](https://rosanneliu.com/dlctfs/dlct_220225.pdf)
+[^1]: Hat tip to Saining Xie for the term ResNet++ in his [presentation about ConvNeXt](https://rosanneliu.com/dlctfs/dlct_220225.pdf)
