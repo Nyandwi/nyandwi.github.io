@@ -16,7 +16,7 @@ layout: page
 
 **************************
 
-I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
+I am broadly interested in machine learning, deep learning, and computer vision.
 
 Previously, I worked at VIEBEG Medical Ltd and instructed TensorFlow Deep Learning Certification course at The Python Academy.
 
@@ -26,7 +26,7 @@ Other intensive learning materials I designed include revisions and implementati
 
 This site is a host of my [works](https://github.com/Nyandwi) and [writings](https://nyandwi.github.io/blog.html). You can find my old articles on [Medium](https://jeande.medium.com/) or [Hashnode](https://hashnode.com/). Occassionally, I create threads and share learning resources on [Twitter](https://twitter.com/jeande_d). I am also on [LinkedIn](https://www.linkedin.com/in/nyandwi/).
 
-I am always open for collaboration. If you'ld like to collaborate, you can reach me through [johnjw7084@gmail.com](mailto:johnjw7084@gmail.com).
+I am always open for collaboration and meeting new people. If you'ld like to collaborate, you can reach me through [johnjw7084@gmail.com](mailto:johnjw7084@gmail.com).
 
 
 
