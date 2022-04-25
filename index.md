@@ -7,7 +7,7 @@ layout: page
  </div>
 
 <center> <h1> Jean de Dieu Nyandwi </h1>
-<p>I like research and engineering!</p>
+<p>I like AI research and engineering!</p>
 
 <a href="https://github.com/Nyandwi" target="_blank"> Github </a> | 
 <a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> | 
@@ -24,7 +24,7 @@ I designed a [Complete Machine Learning Package](https://github.com/Nyandwi/mach
 
 Other intensive learning materials I designed are revisions and implementations of [Modern Convolutional Neural Network Architectures](https://github.com/Nyandwi/ModernConvNets) and a [friendly introduction to Python tutorial](https://github.com/Nyandwi/PythonBasics)!
 
-This site is a host of my [works](https://github.com/Nyandwi) and [writings](https://nyandwi.github.io/blog.html). You can find my old articles on [Medium](https://jeande.medium.com/) or [Hashnode](https://hashnode.com/). Occassionally, I create threads and share learning resources on [Twitter](https://twitter.com/jeande_d). I am also on [LinkedIn](https://www.linkedin.com/in/nyandwi/).
+This site is a host of my [works](https://github.com/Nyandwi) and [writings](https://nyandwi.com/blog). You can find my old articles on [Medium](https://jeande.medium.com/) or [Hashnode](https://hashnode.com/). Occassionally, I create threads and share learning resources on [Twitter](https://twitter.com/jeande_d). I am also on [LinkedIn](https://www.linkedin.com/in/nyandwi/).
 
 I am always open for collaboration and meeting new people. If you'ld like to collaborate, you can reach me through [johnjw7084@gmail.com](mailto:johnjw7084@gmail.com).
 
