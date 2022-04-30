@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deep Learning for Computer Vision
+title: Newsletter
 ---
 <!-- <p class="warning">Coming soon!</p> -->
 
