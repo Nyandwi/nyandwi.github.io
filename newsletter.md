@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Newsletter
+title: Deep Learning for Computer Vision
 ---
 <!-- <p class="warning">Coming soon!</p> -->
 
-This page is reserved for [Deep Learning Revision](https://www.getrevue.co/profile/deeprevision) newsletter! You can subscribe below to be in the first that will receive the first issue!
+This page is reserved for [Deep Learning for Computer Vision](latest.nyandwi.com) newsletter! You can subscribe below to get new newsletters directly in your inbox!
 
 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/deeprevision/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
@@ -18,3 +18,11 @@ This page is reserved for [Deep Learning Revision](https://www.getrevue.co/profi
   </div>
   </form>
 </div>
+
+## Past Newsletters
+
+### 2022
+April 28
+[A Revised History of Deep Learning - Issue #1](http://latest.nyandwi.com/issues/a-revised-history-of-deep-learning-issue-1-1145664)
+
+
