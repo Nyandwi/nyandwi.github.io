@@ -24,6 +24,6 @@ This page is reserved for [Deep Learning for Computer Vision](latest.nyandwi.com
 ##### April 28
 [A Revised History of Deep Learning - Issue #1](http://latest.nyandwi.com/issues/a-revised-history-of-deep-learning-issue-1-1145664)
 
---------------
+***************************
 
 
