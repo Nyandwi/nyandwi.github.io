@@ -2,12 +2,12 @@
 layout: page
 ---
 <div class="post-content">
-    <p><a href="https://github.com/Nyandwi/nyandwi" target="_blank">
+    <p><a href="https://instagram.com/nyandwi.de" target="_blank">
 	<img alt="Jean de Dieu Nyandwi" src="images/profile.jpg" style="float:middle; width: 50%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px" /> </a></p>
  </div>
 
 <center> <h1> Jean de Dieu Nyandwi </h1>
-<p>I like AI research and engineering!</p>
+<p>I like to tinker with data and deep networks!</p>
 
 <a href="https://github.com/Nyandwi" target="_blank"> Github </a> | 
 <a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> | 
