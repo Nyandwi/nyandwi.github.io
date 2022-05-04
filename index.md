@@ -26,7 +26,7 @@ Other works I did can be found [here](https://nyandwi.com/tutocode.html) and [he
 I am always open for collaboration and meeting new people. If you'ld like to collaborate, you can reach me via [johnjw7084@gmail.com](mailto:johnjw7084@gmail.com).
 
 **********************
-<center> <h2> Latest News </h2>
+<center> <h2> Latest News </h2> </center>
 
 * I revamped the notebook [Transfer Learning with Pretrained ConvNets](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb) in [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete).
 
