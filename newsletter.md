@@ -25,5 +25,8 @@ This page is reserved for [Deep Learning for Computer Vision](https://www.getrev
 [A Revised History of Deep Learning - Issue #1](https://www.getrevue.co/profile/deeprevision/issues/a-revised-history-of-deep-learning-issue-1-1145664)
 
 ***************************
+##### May 6
+[Neural Networks Should be Able to Read Objects in an Image - Issue #2](https://www.getrevue.co/profile/deeprevision/issues/neural-networks-should-be-able-to-read-objects-in-an-image-issue-2-1155688)
+
 
 
