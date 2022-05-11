@@ -1,3 +1,3 @@
-# Personal Site - Deep Learning HQ
+# Personal Site
 
-Template stolen from [Alfredo Canziani](https://atcold.github.io). Thanks to him!
+Thanks for the template, [Alfredo](https://atcold.github.io)!
