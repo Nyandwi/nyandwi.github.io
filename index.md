@@ -9,7 +9,7 @@ layout: page
 <center> <h1> Jean de Dieu Nyandwi </h1>
 <p>I like to tinker with data and deep networks!</p>
 
-<a href="https://github.com/Nyandwi" target="_blank"> Github </a> | 
+<a href="https://github.com/Nyandwi" target="_blank"> GitHub </a> | 
 <a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> |
 <a href="https://www.linkedin.com/in/nyandwi/" target="_blank"> LinkedIn </a> |
 <a href="mailto:johnjw7084@gmail.com" target="_blank"> Email </a>
@@ -28,6 +28,7 @@ I am always open for collaboration and meeting new people. If you'ld like to col
 **********************
 <center> <h2> Latest News </h2> </center>
 
+* Complete Machine Learning Package [is now available](https://twitter.com/Jeande_d/status/1525091467324035075?s=20&t=On0KI3EyJ8Z7PDkrevNv-A) on [web](https://nyandwi.com/machine_learning_complete/).
 * I revamped the notebook [Transfer Learning with Pretrained ConvNets](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb) in [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete).
 
 
