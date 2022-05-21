@@ -5,9 +5,9 @@ title: Events
 
 Occassionaly, I host events in partnership with [DeepLearning.AI](https://www.deeplearning.ai). Below are some of the events I hosted(or spoke in):
 
-* **Building a Career in AI and Machine Learning**
+* **Building a Career in AI and Machine Learning - IEEE Nigeria**
 
-    August 18, 2021 | IEEE Nigeria
+    August 18, 2021
 
 * **Learning and Applying Machine Learning With  Santiago Valdarrama**
 
@@ -29,7 +29,8 @@ Occassionaly, I host events in partnership with [DeepLearning.AI](https://www.de
 
 ### Speaking at Events
 
-I am always happy to share [my works](https://github.com/Nyandwi) and what I learn with others. If you would like me to speak at your event, you can email me at [johnjw7084@gmail.com](mailto:johnjw7084@gmail.com). In broad, I can talk about the following:
+I am always happy to share what I learn with others. If you would like me to speak at your event, you can email me at [johnjw7084@gmail.com](mailto:johnjw7084@gmail.com). In broad, I can talk about the following:
+
 - Machine Learning fundamentals, techniques,and applications
 - Deep Learning fundamentals, algorithms, applications, and latest techniques
 - Computer Vision applications, algorithms, and techniques

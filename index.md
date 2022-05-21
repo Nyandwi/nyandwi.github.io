@@ -7,8 +7,6 @@ layout: page
  </div>
 
 <center> <h1> Jean de Dieu Nyandwi </h1>
-<p>I like to tinker with data and deep networks!</p>
-
 <a href="https://github.com/Nyandwi" target="_blank"> GitHub </a> | 
 <a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> |
 <a href="https://www.linkedin.com/in/nyandwi/" target="_blank"> LinkedIn </a> |
@@ -17,18 +15,15 @@ layout: page
 
 **************************
 
-I am broadly interested in machine learning, deep learning, and computer vision.
+I am an incoming graduate student at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/index.html) in Engineering AI. My interests are machine learning, deep learning, and computer vision. I completed my undergraduate studies at University of Rwanda in Electronics and Telecommunication Engineering.
 
-I designed [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete), a repository that contains over 32 end-to-end and interactive notebooks on various machine learning topics such as data analysis, data visualization, data cleaning, classical learning algorithms, and deep learning for computer vision and natural language processing. I also summarized and implemented [Modern Convolutional Neural Network Architectures](https://github.com/Nyandwi/ModernConvNets).
-
-Other works I did can be found [here](https://nyandwi.com/tutocode.html) and [here](https://github.com/Nyandwi). My recent writings can also be found [here](https://nyandwi.com/blog.html). My old articles are on [Medium](https://jeande.medium.com/) and [Hashnode](https://hashnode.com/).
-
-I am always open for collaboration and meeting new people. If you'ld like to collaborate, you can reach me via [johnjw7084@gmail.com](mailto:johnjw7084@gmail.com).
+During college, I worked at startups, non-profit, and designed [machine learning education materials](https://github.com/Nyandwi/machine_learning_complete).
 
 **********************
 <center> <h2> Latest News </h2> </center>
 
 * Complete Machine Learning Package [is now available](https://twitter.com/Jeande_d/status/1525091467324035075?s=20&t=On0KI3EyJ8Z7PDkrevNv-A) on [web](https://nyandwi.com/machine_learning_complete/).
+
 * I revamped the notebook [Transfer Learning with Pretrained ConvNets](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb) in [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete).
 
 
