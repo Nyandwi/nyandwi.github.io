@@ -7,7 +7,7 @@ Occassionaly, I host events in partnership with [DeepLearning.AI](https://www.de
 
 * **Building a Career in AI and Machine Learning - IEEE Nigeria**
 
-    August 18, 2021
+    August 18, 2021 | [Slides](/docs/iee-nigeria-talk.pdf)
 
 * **Learning and Applying Machine Learning With  Santiago Valdarrama**
 
