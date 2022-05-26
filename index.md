@@ -17,7 +17,7 @@ layout: page
 
 I am an incoming graduate student at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/index.html) in Engineering AI. My interests are machine learning, deep learning, and computer vision. I completed my undergraduate studies at University of Rwanda in Electronics and Telecommunication Engineering.
 
-During college, I worked at start-ups, non-profit, and designed [machine learning educational materials](https://github.com/Nyandwi/machine_learning_complete).
+During college, I [learned](https://github.com/Nyandwi/nyandwi/tree/main/professional-certificates) machine learning(and mentored fellow learners along the way), worked at [start-ups](https://www.viebeg.com), [non-profit](https://asefrwanda.org), and designed [Complete Machine Learning Package](https://nyandwi.com/machine_learning_complete/).
 
 **********************
 <center> <h2> Latest News </h2> </center>
