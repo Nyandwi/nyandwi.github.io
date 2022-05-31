@@ -30,5 +30,15 @@ title: Newsletter
 
 [Neural Networks Should be Able to Read Objects in an Image - Issue #2](https://www.getrevue.co/profile/deeprevision/issues/neural-networks-should-be-able-to-read-objects-in-an-image-issue-2-1155688)
 
+***************************
+**May 19**
+
+[Flamingo: A Visual Language Model for Few-Shot Learning - Issue #3](https://www.getrevue.co/profile/deeprevision/issues/flamingo-a-visual-language-model-for-few-shot-learning-issue-3-1167392)
+
+***************************
+**May 26**
+
+[Deep Learning Revision - Issue #4](https://www.getrevue.co/profile/deeprevision/issues/deep-learning-revision-issue-4-1186694)
+
 
 
