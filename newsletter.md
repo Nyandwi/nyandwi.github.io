@@ -4,7 +4,7 @@ title: Newsletter
 ---
 <!-- <p class="warning">Coming soon!</p> -->
 
-[Deep Learning for Revision](https://www.getrevue.co/profile/deeprevision) newsletter brings the latest trends in deep learning and computer vision to your inbox! All past  newsletters can be found below.
+[Deep Learning Revision](https://www.getrevue.co/profile/deeprevision) newsletter brings the latest trends in deep learning and computer vision to your inbox! All past  newsletters can be found below.
 
 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/deeprevision/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
