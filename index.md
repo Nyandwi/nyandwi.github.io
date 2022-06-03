@@ -17,7 +17,13 @@ layout: page
 
 I am an incoming graduate student at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/index.html) in Engineering AI. My interests are machine learning, deep learning, and computer vision. I completed my undergraduate studies at University of Rwanda in Electronics and Telecommunication Engineering.
 
-During college, I [learned](https://github.com/Nyandwi/nyandwi/tree/main/professional-certificates) machine learning(and mentored fellow learners along the way), worked at start-ups, [non-profit](https://asefrwanda.org), and designed [Complete Machine Learning Package](https://nyandwi.com/machine_learning_complete/).
+During college, I [learned](https://github.com/Nyandwi/nyandwi/tree/main/professional-certificates) machine learning(and mentored fellow learners along the way), worked at start-ups, non-profit, and designed [Complete Machine Learning Package](https://nyandwi.com/machine_learning_complete/).
+
+
+**********************
+<center> <h2> Teaching </h2> </center>
+
+I designed and instructed TensorFlow Deep Learning Certification Course at The Python Academy. The course helped learners to build, train, evaluate, and debug deep learning systems for Computer Vision and Natural Language Processing.
 
 **********************
 <center> <h2> Latest News </h2> </center>
@@ -25,6 +31,3 @@ During college, I [learned](https://github.com/Nyandwi/nyandwi/tree/main/profess
 * Complete Machine Learning Package [is now available](https://twitter.com/Jeande_d/status/1525091467324035075?s=20&t=On0KI3EyJ8Z7PDkrevNv-A) on [web](https://nyandwi.com/machine_learning_complete/).
 
 * I revamped the notebook [Transfer Learning with Pretrained ConvNets](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb) in [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete).
-
-
-
