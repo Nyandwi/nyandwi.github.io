@@ -3,7 +3,7 @@ layout: page
 ---
 <div class="post-content">
     <p><a href="https://instagram.com/nyandwi.de" target="_blank">
-	<img alt="Jean de Dieu Nyandwi" src="images/profile-pic.jpg" style="float:middle; width: 50%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px" /> </a></p>
+	<img alt="Jean de Dieu Nyandwi" src="images/profile-3.jpg" style="float:middle; width: 50%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px" /> </a></p>
  </div>
 
 <center> <h1> Jean de Dieu Nyandwi </h1>
@@ -15,7 +15,7 @@ layout: page
 
 **************************
 
-I am an incoming graduate student at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/index.html) in Engineering AI. My interests are machine learning, deep learning, and computer vision. I completed my undergraduate studies at University of Rwanda in Electronics and Telecommunication Engineering.
+I am an incoming graduate student at [Carnegie Mellon University Africa](https://www.africa.engineering.cmu.edu/index.html) in Engineering AI. I am broadly interested in machine learning, deep learning, and computer vision. I completed my undergraduate studies at University of Rwanda in Electronics and Telecommunication Engineering.
 
 During college, I [learned](https://github.com/Nyandwi/nyandwi/tree/main/professional-certificates) machine learning(and mentored fellow learners along the way), worked at start-ups, non-profit, and designed [Complete Machine Learning Package](https://nyandwi.com/machine_learning_complete/).
 
