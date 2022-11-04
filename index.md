@@ -15,19 +15,25 @@ layout: page
 
 **************************
 
-I am a graduate student at Carnegie Mellon University in Master of Science in Engineering Artificial Intelligence. I am broadly interested in machine learning, deep learning, and computer vision. I completed my undergraduate studies at University of Rwanda in Electronics and Telecommunication Engineering.
+I am a graduate student at Carnegie Mellon University in Master of Science in Engineering Artificial Intelligence. I am broadly interested in machine learning, deep learning, and computer vision. My research interests are visual representation learning, vision and language, and 3D vision.
 
-During college, I [learned](https://github.com/Nyandwi/nyandwi/tree/main/professional-certificates) machine learning(and mentored fellow learners along the way), worked at start-ups and non-profit, and designed [Complete Machine Learning Package](https://nyandwi.com/machine_learning_complete/).
+I completed my undergraduate studies at University of Rwanda in Electronics and Telecommunication Engineering.
+
+During college, I [learned](https://github.com/Nyandwi/nyandwi/tree/main/professional-certificates) machine learning(and mentored fellow learners along the way), worked at start-ups and non-profit.
 
 
 **********************
 <center> <h2> Teaching </h2> </center>
 
-I designed and instructed TensorFlow Deep Learning Certification Course at The Python Academy. The course helped learners to build, train, evaluate, and debug deep learning systems for Computer Vision and Natural Language Processing.
+* Introduction to Deeep Learning - [[2022](https://github.com/Nyandwi/deep-learning-course-kigali)]
+* Deep Learning with TensorFlow Certification [[2021](https://www.thepythonacademy.com/tensorflowcertification)]
+* Complete Machine Learning Package [[2021](https://nyandwi.com/machine_learning_complete/)]
+
 
 **********************
 <center> <h2> Latest News </h2> </center>
 
-* Complete Machine Learning Package [is now available](https://twitter.com/Jeande_d/status/1525091467324035075?s=20&t=On0KI3EyJ8Z7PDkrevNv-A) on [web](https://nyandwi.com/machine_learning_complete/).
-
-* I revamped the notebook [Transfer Learning with Pretrained ConvNets](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb) in [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete).
+* Oct 2022 - Appeared in [top 50 AI influencers](https://onalytica.com/blog/posts/whos-who-in-artificial-intelligence-top-50-influencers/) list made by Onalytica
+* Sept 2022 - Nominated as one of the DeepLearning.AI Event Ambassador [Spotlight](https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022/) 2022
+* Aug 2022 - Started MS AI at Carnegie Mellon University Africa
+* May 2022 - Complete Machine Learning Package [is now available](https://twitter.com/Jeande_d/status/1525091467324035075?s=20&t=On0KI3EyJ8Z7PDkrevNv-A) on [web](https://nyandwi.com/machine_learning_complete/)
