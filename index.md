@@ -26,7 +26,7 @@ During college, I [learned](https://github.com/Nyandwi/nyandwi/tree/main/profess
 <center> <h2> Teaching </h2> </center>
 
 * Introduction to Deeep Learning - [[2022](https://github.com/Nyandwi/deep-learning-course-kigali)]
-* Deep Learning with TensorFlow Certification [[2021](https://www.thepythonacademy.com/tensorflowcertification)]
+* Deep Learning with TensorFlow Certification [2021]
 * Complete Machine Learning Package [[2021](https://nyandwi.com/machine_learning_complete/)]
 
 
