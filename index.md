@@ -2,7 +2,7 @@
 layout: page
 ---
 <div class="post-content">
-    <p><a href="https://instagram.com/nyandwi.de" target="_blank">
+    <p><a href="https://twitter.com/Jeande_d" target="_blank">
 	<img alt="Jean de Dieu Nyandwi" src="images/profile-2.jpg" style="float:middle; width: 50%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px" /> </a></p>
  </div>
 
