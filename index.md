@@ -19,7 +19,7 @@ I am a graduate student at Carnegie Mellon University in Master of Science in En
 
 I completed my undergraduate studies at University of Rwanda in Electronics and Telecommunication Engineering.
 
-During college, I [learned](https://github.com/Nyandwi/nyandwi/tree/main/professional-certificates) machine learning(and mentored fellow learners along the way), worked at start-ups and non-profit.
+During college, I [learned machine learning](https://github.com/Nyandwi/nyandwi/tree/main/professional-certificates) (and mentored fellow learners along the way), worked at start-ups and non-profit.
 
 
 **********************
