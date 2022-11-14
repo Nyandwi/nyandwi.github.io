@@ -15,7 +15,7 @@ layout: page
 
 **************************
 
-I am a graduate student at Carnegie Mellon University in Master of Science in Engineering Artificial Intelligence. I am broadly interested in machine learning, deep learning, and computer vision. My research interests are visual representation learning, image generation, 3D vision, vision and language, and vision for robotics. I also have interest in AI education and opensource and I like to share educational resources and research trends on my [social](https://twitter.com/Jeande_d) [accounts](https://www.linkedin.com/in/nyandwi/).
+I am a graduate student at Carnegie Mellon University in Master of Science in Engineering Artificial Intelligence. I am broadly interested in machine learning, deep learning, and computer vision. My research interests are visual representation learning, image generation, 3D vision, vision and language, and vision for robotics. I also have interests in AI education and opensource and I like to share educational resources and research trends on my [social](https://twitter.com/Jeande_d) [accounts](https://www.linkedin.com/in/nyandwi/).
 
 I completed my undergraduate studies at University of Rwanda in Electronics and Telecommunication Engineering.
 
