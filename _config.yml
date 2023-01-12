@@ -5,12 +5,10 @@ remote_theme: jekyll/minima
 minima:
 #  skin: dark
   social_links:
-    twitter: Jeande_d
-    github:  Nyandwi
-    linkedin: nyandwi
-    instagram: nyandwi.de
-    youtube_channel: UCSPFIgLyc2t-pNim-CdyBNQ
-    youtube_channel_name: Jean de Dieu Nyandwi
+    - { platform: twitter, user_url: "https://twitter.com/Jeande_d" }
+    - { platform: github,  user_url: "https://github.com/Nyandwi" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/nyandwi"}
+    - { platform: youtube,  user_url: "https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ"}
 google_analytics: G-W0PE5HT9JD
 highlighter: rouge
 kramdown:
