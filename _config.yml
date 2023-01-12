@@ -7,8 +7,8 @@ minima:
   social_links:
     - { platform: twitter, user_url: "https://twitter.com/Jeande_d" }
     - { platform: github,  user_url: "https://github.com/Nyandwi" }
-    - { platform: linkedin, user_url: "https://linkedin.com/in/nyandwi"}
-    - { platform: youtube,  user_url: "https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ"}
+    - { platform: linkedin, user_url: "https://linkedin.com/in/nyandwi" }
+    - { platform: youtube,  user_url: "https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ" }
 google_analytics: G-W0PE5HT9JD
 highlighter: rouge
 kramdown:
