@@ -1,6 +1,7 @@
 # Ignore temporary files
-_site/
-.jekyll-cache/
+# _site/
+# .jekyll-cache/
 
 # Ignore extra directory
-extra/
+./extra/
+./extra/cv.pdf
