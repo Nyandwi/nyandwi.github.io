@@ -1,3 +1,6 @@
 # Ignore temporary files
 _site/
 .jekyll-cache/
+
+# Ignore extra directory
+extra/
