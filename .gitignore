@@ -3,7 +3,5 @@
 # .jekyll-cache/
 
 # Ignore extra directory
-./extras/
-./extras/cv.pdf
-/extras
 extras
+extras/cv.pdf
