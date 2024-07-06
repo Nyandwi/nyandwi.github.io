@@ -1,6 +1,7 @@
 ---
 title: "Jean de Dieu Nyandwi"
 toc: false
+page-layout: full
 ---
 
 I am Jean de Dieu Nyandwi. I work on visual language models. I recently completed MS Engineering AI at Carnegie Mellon University. I have had a fortune to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing people at CMU.
