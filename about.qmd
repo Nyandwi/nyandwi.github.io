@@ -17,5 +17,3 @@ about:
 ---
 
 About this blog
-
-[CV](extras/cv.pdf)
