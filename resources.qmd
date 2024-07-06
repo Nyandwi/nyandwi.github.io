@@ -1,0 +1,32 @@
+---
+title: "Resources"
+toc: false
+---
+
+I love creating and sharing learning resources and speaking about what I work on. Below are some of the learning resources I have created.
+
+## Videos
+
+* Transformer Architecture Explained: [Video](https://youtu.be/VygOX3AyDQs?feature=shared) | [Slides](https://docs.google.com/presentation/d/152gxD0pygkGALBAWI6hqQcGIdQztcloEA0kUQw4Zwpg/edit?usp=sharing)
+
+* Vision Transformers(ViT): Image is Worth 16x16 Words: [Video](https://youtu.be/SXL4-DJ5_S4?feature=shared) | [Slides](https://docs.google.com/presentation/d/1IcXGiKPoEHDVgC7tlNLFlBIkUunq_H46Arv3kUYHh6g/edit?usp=sharing)
+
+## Code and Tutorials
+
+#### Deep Learning for Computer Vision Package
+
+[[Github]](https://github.com/Nyandwi/deep-computer-vision) [[Nbviewer]](https://nbviewer.jupyter.org/github/Nyandwi/deep-computer-vision) [[Colab]](https://colab.research.google.com/github/Nyandwi/deep-computer-vision)
+
+Deep Learning for Computer Vision covers foundations of computer vision and deep learning, state-of-the-arts visual architectures(such as ConvNets and Vision Transformers), various Computer Vision tasks(such as image classification, object detection and segmentation), tips and tricks for training and analyzing visual recognition systems.
+
+
+#### Complete Machine Learning Package
+[[Web]](https://nyandwi.com/machine_learning_complete/) [[Github]](https://github.com/Nyandwi/machine_learning_complete) [[Nbviewer]](https://nbviewer.jupyter.org/github/Nyandwi/machine_learning_complete) [[Colab]](https://colab.research.google.com/github/Nyandwi/machine_learning_complete)
+
+Complete Machine Learning Package is a comprehensive repository containing 30+ notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP).
+
+#### Modern Convolutional Neural Network Architectures(ModernConvNets)
+
+[[Github]](https://github.com/Nyandwi/ModernConvNets) [[Nbviewer]](https://nbviewer.jupyter.org/github/Nyandwi/ModernConvNets) [[Colab]](https://colab.research.google.com/github/Nyandwi/ModernConvNets)
+
+Revision of the designs, implementations, and annotated papers of 13 Modern Convolutional Neural Network architectures: AlexNet, GoogLeNet(Inceptionv1), ResNet, ResNeXt, Xception, DenseNet, MobileNetV1, MobileNetV2, EfficientNet, RegNet, ConvMixer, ConvNeXt.

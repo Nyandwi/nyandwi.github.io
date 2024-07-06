@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nyandwi"
+  search: false
+  google-analytics: "G-W0PE5HT9JD"
+  navbar:
+    right:
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Resources"
+        href: resources.qmd
+      - icon: github
+        href: https://github.com/Nyandwi
+      - icon: twitter
+        href: https://twitter.com/jeande_d
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nyandwi/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

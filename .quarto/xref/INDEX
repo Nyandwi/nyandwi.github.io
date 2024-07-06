@@ -1,0 +1,23 @@
+{
+  "about.qmd": {
+    "about.html": "6645dfe0"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "2fa97ae1"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "92440094"
+  },
+  "index.qmd": {
+    "index.html": "15f53466"
+  },
+  "blog.qmd": {
+    "blog.html": "9139fac3"
+  },
+  "research.qmd": {
+    "research.html": "077c3091"
+  },
+  "resources.qmd": {
+    "resources.html": "88e05a97"
+  }
+}

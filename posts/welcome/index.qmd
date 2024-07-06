@@ -1,0 +1,8 @@
+---
+title: "A New blog"
+author: "Jean Nyandwi"
+date: "2024-07-06"
+categories: [news]
+---
+
+I am moving my blog to Quarto after several months using it for other projects.

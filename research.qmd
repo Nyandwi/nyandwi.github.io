@@ -1,0 +1,9 @@
+---
+title: "Research"
+toc: false
+---
+
+I am broadly interested in computer vision and multimodal learning. My research interests are visual representation learning and visual language models.
+
+Check my [Google Scholar](https://scholar.google.com/citations?user=X1KlIsQAAAAJ&hl=en) for updated information!
+

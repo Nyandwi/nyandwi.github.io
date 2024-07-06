@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profilepic.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/jeande_d
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/nyandwi
+    - icon: github
+      text: Github
+      href: https://github.com/Nyandwi
+
+---
+
+About this blog

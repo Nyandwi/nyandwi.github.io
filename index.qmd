@@ -1,0 +1,22 @@
+---
+title: "Jean de Dieu Nyandwi"
+toc: false
+---
+
+I am Jean de Dieu Nyandwi. I work on visual language models. I recently completed MS Engineering AI at Carnegie Mellon University. I have had a fortune to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing people at CMU.
+
+<center>
+<img src="profilepic.jpg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px"/>
+</center>
+
+## Latest News
+
+* May 2024 - Graduated from CMU MS Engineering AI!!
+* Oct 2022 - Listed in [top 50 AI influencers](https://onalytica.com/blog/posts/whos-who-in-artificial-intelligence-top-50-influencers/) by Onalytica
+* Sept 2022 - Nominated in DeepLearning.AI Event Ambassadors [Spotlight](https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022/) 2022
+* Aug 2022 - Started MS AI at Carnegie Mellon University Africa
+* May 2022 - Complete Machine Learning Package [is now available](https://twitter.com/Jeande_d/status/1525091467324035075?s=20&t=On0KI3EyJ8Z7PDkrevNv-A) on [web](https://nyandwi.com/machine_learning_complete/)
+
+## Invited Talks
+
+* June 2024 - Presented Multimodal LLMs at IndabaX Rwanda. Find slides [here](https://docs.google.com/presentation/d/1UKCfqOwFZtLynZ75aqdIBfQ328BD5X1jOE_Lt2ZROcM/edit?usp=sharing)!  
