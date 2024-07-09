@@ -15,17 +15,24 @@ I love creating and sharing learning resources and speaking about what I work on
 
 #### Deep Learning for Computer Vision Package
 
+<img src="https://img.shields.io/github/stars/nyandwi/deep-computer-vision?style=social&label=Code+Stars" alt="">
+
 [[Github]](https://github.com/Nyandwi/deep-computer-vision) [[Nbviewer]](https://nbviewer.jupyter.org/github/Nyandwi/deep-computer-vision) [[Colab]](https://colab.research.google.com/github/Nyandwi/deep-computer-vision)
 
 Deep Learning for Computer Vision covers foundations of computer vision and deep learning, state-of-the-arts visual architectures(such as ConvNets and Vision Transformers), various Computer Vision tasks(such as image classification, object detection and segmentation), tips and tricks for training and analyzing visual recognition systems.
 
 
 #### Complete Machine Learning Package
-[[Web]](https://nyandwi.com/machine_learning_complete/) [[Github]](https://github.com/Nyandwi/machine_learning_complete) [[Nbviewer]](https://nbviewer.jupyter.org/github/Nyandwi/machine_learning_complete) [[Colab]](https://colab.research.google.com/github/Nyandwi/machine_learning_complete)
+
+<img src="https://img.shields.io/github/stars/nyandwi/machine_learning_complete?style=social&label=Code+Stars" alt="">
+
+[[Web]](https://nyandwi.com/machine_learning_complete/) [[Github]](https://github.com/Nyandwi/machine_learning_complete) [[Nbviewer]](https://nbviewer.jupyter.org/github/Nyandwi/machine_learning_complete) [[Colab]](https://colab.research.google.com/github/Nyandwi/machine_learning_complete) 
 
 Complete Machine Learning Package is a comprehensive repository containing 30+ notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP).
 
 #### Modern Convolutional Neural Network Architectures(ModernConvNets)
+
+<img src="https://img.shields.io/github/stars/nyandwi/ModernConvNets?style=social&label=Code+Stars" alt="">
 
 [[Github]](https://github.com/Nyandwi/ModernConvNets) [[Nbviewer]](https://nbviewer.jupyter.org/github/Nyandwi/ModernConvNets) [[Colab]](https://colab.research.google.com/github/Nyandwi/ModernConvNets)
 

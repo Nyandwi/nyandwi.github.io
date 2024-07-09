@@ -18,14 +18,14 @@
     "href": "index.html",
     "title": "Jean de Dieu Nyandwi",
     "section": "",
-    "text": "I am Jean de Dieu Nyandwi. I work on visual language models. I recently completed MS Engineering AI at Carnegie Mellon University. I have had a fortune to work with Prof. Graham Neubig and other amazing people at CMU. I also have interests in AI accessible education, and I spend a fair amount of time designing, exploring, and sharing learning resources.\nBeside technical works, I regularly workout, mostly resilience training and calisthenic, some basketball, and walks sometime."
+    "text": "I am Jean de Dieu Nyandwi. I work on visual language models. I recently completed MS Engineering AI at Carnegie Mellon University. I have had a fortune to work with Prof. Graham Neubig and other amazing people at CMU. I also have interests in AI education and accessibility, and I spend a fair amount of time designing, exploring, and sharing learning resources.\nBeside technical works, I regularly workout, mostly resilience training and calisthenics, some basketball, and walks sometime."
   },
   {
     "objectID": "index.html#latest-news",
     "href": "index.html#latest-news",
     "title": "Jean de Dieu Nyandwi",
     "section": "Latest News",
-    "text": "Latest News\n\nMay 2024 - Graduated from CMU MS Engineering AI!!\nOct 2022 - Listed in top 50 AI influencers by Onalytica\nSept 2022 - Nominated in DeepLearning.AI Event Ambassadors Spotlight 2022\nAug 2022 - Started MS AI at Carnegie Mellon University Africa\nMay 2022 - Complete Machine Learning Package is now available on web"
+    "text": "Latest News\n\nMay 2024 - Graduated from CMU MS Engineering AI!!\nJuly 2023 - Published Transformer Blueprint article!\nOct 2022 - Listed in top 50 AI influencers by Onalytica\nSept 2022 - Nominated in DeepLearning.AI Event Ambassadors Spotlight 2022\nAug 2022 - Started MS AI at Carnegie Mellon University Africa\nMay 2022 - Complete Machine Learning Package is now available on web"
   },
   {
     "objectID": "index.html#invited-talks",
@@ -39,7 +39,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "I am broadly interested in computer vision and multimodal learning. My research interests are visual representation learning and visual language models.\nCheck my Google Scholar for updated information!"
+    "text": "I am broadly interested in computer vision and multimodal learning. My research interests center around visual language models evaluation and robustness and visual representation learning.\nCheck my Google Scholar for updated information!"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nWIP"
+  },
+  {
+    "objectID": "research.html#research-articles",
+    "href": "research.html#research-articles",
+    "title": "Research",
+    "section": "Research Articles",
+    "text": "Research Articles\n\nThe Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture | Blog | Views: 31K | July 2023"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -74,6 +88,6 @@
     "href": "resources.html#code-and-tutorials",
     "title": "Resources",
     "section": "Code and Tutorials",
-    "text": "Code and Tutorials\n\nDeep Learning for Computer Vision Package\n[Github] [Nbviewer] [Colab]\nDeep Learning for Computer Vision covers foundations of computer vision and deep learning, state-of-the-arts visual architectures(such as ConvNets and Vision Transformers), various Computer Vision tasks(such as image classification, object detection and segmentation), tips and tricks for training and analyzing visual recognition systems.\n\n\nComplete Machine Learning Package\n[Web] [Github] [Nbviewer] [Colab]\nComplete Machine Learning Package is a comprehensive repository containing 30+ notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP).\n\n\nModern Convolutional Neural Network Architectures(ModernConvNets)\n[Github] [Nbviewer] [Colab]\nRevision of the designs, implementations, and annotated papers of 13 Modern Convolutional Neural Network architectures: AlexNet, GoogLeNet(Inceptionv1), ResNet, ResNeXt, Xception, DenseNet, MobileNetV1, MobileNetV2, EfficientNet, RegNet, ConvMixer, ConvNeXt."
+    "text": "Code and Tutorials\n\nDeep Learning for Computer Vision Package\n\n[Github] [Nbviewer] [Colab]\nDeep Learning for Computer Vision covers foundations of computer vision and deep learning, state-of-the-arts visual architectures(such as ConvNets and Vision Transformers), various Computer Vision tasks(such as image classification, object detection and segmentation), tips and tricks for training and analyzing visual recognition systems.\n\n\nComplete Machine Learning Package\n\n[Web] [Github] [Nbviewer] [Colab]\nComplete Machine Learning Package is a comprehensive repository containing 30+ notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP).\n\n\nModern Convolutional Neural Network Architectures(ModernConvNets)\n\n[Github] [Nbviewer] [Colab]\nRevision of the designs, implementations, and annotated papers of 13 Modern Convolutional Neural Network architectures: AlexNet, GoogLeNet(Inceptionv1), ResNet, ResNeXt, Xception, DenseNet, MobileNetV1, MobileNetV2, EfficientNet, RegNet, ConvMixer, ConvNeXt."
   }
 ]

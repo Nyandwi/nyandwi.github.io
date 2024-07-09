@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Nyandwi</title>
+<link>nyandwi.com/blog.html</link>
+<atom:link href="nyandwi.com/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.552</generator>
+<lastBuildDate>Fri, 05 Jul 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>A New blog</title>
+  <dc:creator>Jean Nyandwi</dc:creator>
+  <link>nyandwi.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I am moving my blog to Quarto after several months using it for other projects.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>nyandwi.com/posts/welcome/</guid>
+  <pubDate>Fri, 05 Jul 2024 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

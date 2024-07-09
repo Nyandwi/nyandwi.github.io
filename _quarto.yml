@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  site-url: nyandwi.com
   title: "Nyandwi"
   search: false
   google-analytics: "G-W0PE5HT9JD"

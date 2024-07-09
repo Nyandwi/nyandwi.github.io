@@ -3,9 +3,9 @@ title: "Jean de Dieu Nyandwi"
 toc: false
 ---
 
-I am Jean de Dieu Nyandwi. I work on visual language models. I recently completed MS Engineering AI at Carnegie Mellon University. I have had a fortune to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing people at CMU. I also have interests in AI accessible education, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
+I am Jean de Dieu Nyandwi. I work on visual language models. I recently completed MS Engineering AI at Carnegie Mellon University. I have had a fortune to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing people at CMU. I also have interests in AI education and accessibility, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
 
-Beside technical works, I regularly workout, mostly resilience training and calisthenic, some basketball, and walks sometime.
+Beside technical works, I regularly workout, mostly resilience training and calisthenics, some basketball, and walks sometime.
 
 <center>
 <img src="profilepic.jpg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px"/>
@@ -14,6 +14,7 @@ Beside technical works, I regularly workout, mostly resilience training and cali
 ## Latest News
 
 * May 2024 - Graduated from CMU MS Engineering AI!!
+* July 2023 - Published [Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/) article!
 * Oct 2022 - Listed in [top 50 AI influencers](https://onalytica.com/blog/posts/whos-who-in-artificial-intelligence-top-50-influencers/) by Onalytica
 * Sept 2022 - Nominated in DeepLearning.AI Event Ambassadors [Spotlight](https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022/) 2022
 * Aug 2022 - Started MS AI at Carnegie Mellon University Africa
