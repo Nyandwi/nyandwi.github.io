@@ -3,7 +3,7 @@ title: "Research"
 toc: false
 ---
 
-I am broadly interested in computer vision and multimodal learning. My research interests center around visual language models evaluation and robustness and visual representation learning.
+I am broadly interested in machine learning, computer vision and multimodal models. My research interests are right at the intersection of visual recognition and language models. More specifically, I am interested in designing better evaluation techniques for visual language models/multimodal LLMs, studying their robustness and improving them.
 
 Check my [Google Scholar](https://scholar.google.com/citations?user=X1KlIsQAAAAJ&hl=en) for updated information!
 
