@@ -1,0 +1,7 @@
+---
+title: "Personal Notes"
+toc: false
+---
+
+[Non technical notes](notes/01_softblog.qmd)
+

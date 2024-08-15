@@ -22,5 +22,11 @@
   },
   "cv.qmd": {
     "cv.html": "9511ba8c"
+  },
+  "xyz.qmd": {
+    "xyz.html": "23a3bf43"
+  },
+  "notes/01_softblog.qmd": {
+    "01_softblog.html": "cb6269d5"
   }
 }
