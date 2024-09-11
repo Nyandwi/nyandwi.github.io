@@ -7,12 +7,14 @@ I am broadly interested in machine learning, computer vision and multimodal mode
 
 Check my [Google Scholar](https://scholar.google.com/citations?user=X1KlIsQAAAAJ&hl=en) for updated information!
 
-
 ## Publications
 
-WIP
+**NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**
+
+*Baiqi Li*^\*^, Zhiqiu Lin^\*^, Wenxuan Peng^\*^, **Jean de Dieu Nyandwi^\*^**, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, Deva Ramanan
+
+In submission
 
 ## Research Articles
 
-* The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture | [Blog](https://deeprevision.github.io/posts/001-transformer/) | Views: 31K | July 2023
-
+-   The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture \| [Blog](https://deeprevision.github.io/posts/001-transformer/) \| Views: 31K \| July 2023
