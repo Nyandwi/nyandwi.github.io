@@ -11,9 +11,8 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=X1KlIsQAAAAJ
 
 **NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**
 
-*Baiqi Li*^\*^, Zhiqiu Lin^\*^, Wenxuan Peng^\*^, **Jean de Dieu Nyandwi^\*^**, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, Deva Ramanan
+ - [**NeurIPS**] Baiqi Li^\*^, Zhiqiu Lin^\*^, Wenxuan Peng^\*^, **Jean de Dieu Nyandwi^\*^**, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, Deva Ramanan
 
-In submission
 
 ## Research Articles
 
