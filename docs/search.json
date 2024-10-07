@@ -39,14 +39,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "I am broadly interested in machine learning, computer vision and multimodal models. My research interests are right at the intersection of visual recognition and language models. More specifically, I am interested in designing better evaluation techniques for visual language models/multimodal LLMs, studying their robustness and improving them.\nCheck my Google Scholar for updated information!"
+    "text": "I am broadly interested in machine learning, computer vision and multimodal models. My research interests are right at the intersection of visual recognition and language models. More specifically, I am interested in designing better evaluation techniques for visual language models/multimodal generative models, studying their robustness and improving their understanding on visual language tasks.\nCheck my Google Scholar for updated information!"
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\nNaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples\n\n[NeurIPS] Baiqi Li*, Zhiqiu Lin*, Wenxuan Peng*, Jean de Dieu Nyandwi*, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, Deva Ramanan"
+    "text": "Publications\nNaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples\n\n[NeurIPS 2024] Baiqi Li*, Zhiqiu Lin*, Wenxuan Peng*, Jean de Dieu Nyandwi*, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, Deva Ramanan"
   },
   {
     "objectID": "research.html#research-articles",
