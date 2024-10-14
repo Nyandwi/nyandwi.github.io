@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+toc: false
+---
+
+I very much enjoy teaching and talking about topics and things that I work on. I previously conducted a number of teaching activities around machine learning, deep learning, computer vision, and language models.
+
+### Teaching Assistant
+
+I was teaching assistant at Carnegie Mellon University in [Introduction to Machine Learning](https://18661.github.io/) and [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index.html). In both courses, I assisted with creating assessments, helping students with understanding technical materials via recitation and office hours, managing course websites and updating contents. In [Introduction to Machine Learning](https://18661.github.io/), I gave a student lecture on Multimodal LLMs(slides [here](https://docs.google.com/presentation/d/1UKCfqOwFZtLynZ75aqdIBfQ328BD5X1jOE_Lt2ZROcM/edit?usp=sharing)), something that I have been working on recently.
+
+### Introduction to Deep Learning for NLP - Mbaza NLP
+
+I co-instructed two months-long course on Deep Learning for NLP at Digital Transformation Center Kigali in Colloboration with Mbaza NLP. The course covered a range of topics from deep learning architectures, handling language data, best practices and relevant practicals. [Here](https://github.com/Nyandwi/deep-learning-course-kigali) are some of the course materials.
+
+### Deep Learning Instructor - The Python Academy
+
+I designed and was the instructor for Deep Learning certification bootcamp at The PyThon Academy. The bootcamp covered deep learning fundamentals and techniques with applications in NLP and computer vision. The students gained valuable and practical experience and used the gained knowledge to pass TensorFlow Certification Program organized by Google.
+
+### AI for Everyone - Online
+
+I regularly create online learning resources around AI and machine learning. Complete Machine Learning Package and Transformer [video](https://youtu.be/VygOX3AyDQs?feature=shared) & [article](https://deeprevision.github.io/posts/001-transformer/) are most popular examples, you can find other resources [here](https://nyandwi.com/resources.html).
+
+
+

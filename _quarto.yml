@@ -13,6 +13,8 @@ website:
         href: index.qmd
       - text: "Research"
         href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
       - text: "Resources"
         href: resources.qmd
       - icon: github
