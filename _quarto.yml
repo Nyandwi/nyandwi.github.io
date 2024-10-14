@@ -9,8 +9,8 @@ website:
   google-analytics: "G-W0PE5HT9JD"
   navbar:
     right:
-      - text: "About"
-        href: index.qmd
+      # - text: "About"
+      #   href: index.qmd
       - text: "Research"
         href: research.qmd
       - text: "Teaching"
