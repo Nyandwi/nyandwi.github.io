@@ -9,9 +9,14 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=X1KlIsQAAAAJ
 
 ## Publications
 
-**NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**
+**Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages** | [ArXiv](https://arxiv.org/abs/2410.16153) | [Webpage](https://neulab.github.io/Pangea/) | [Models](https://huggingface.co/neulab/Pangea-7B) | [Code](https://github.com/neulab/Pangea)
 
- - [**NeurIPS 2024**] Baiqi Li^\*^, Zhiqiu Lin^\*^, Wenxuan Peng^\*^, **Jean de Dieu Nyandwi^\*^**, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, Deva Ramanan
+ Xiang Yue^\*^, Yueqi Song^\*^, Akari Asai, Seungone Kim, **Jean de Dieu Nyandwi**, Simran Khanuja, Anjali Kantharuban, Lintang Sutawika, Sathyanarayanan Ramamoorthy, Graham Neubig 
+
+
+**[NeurIPS 2024] NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples** | [ArXiv](https://arxiv.org/abs/2410.14669) | [Webpage](http://linzhiqiu.github.io/papers/naturalbench) | [Benchmark](https://huggingface.co/datasets/BaiqiL/NaturalBench/blob/main/README.md)
+
+Baiqi Li^\*^, Zhiqiu Lin^\*^, Wenxuan Peng^\*^, **Jean de Dieu Nyandwi^\*^**, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, Deva Ramanan
 
 
 ## Research Articles

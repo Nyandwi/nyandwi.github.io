@@ -15,6 +15,7 @@ Beside technical works, I regularly workout, mostly resilience training and cali
 
 ## Latest News
 
+* Oct 2024 - NaturalBench paper is now publicly [available on ArXiv](https://arxiv.org/abs/2410.14669)!!
 * Sep 2024 - [NaturalBench](http://linzhiqiu.github.io/papers/naturalbench) was accepted to NeurIPS 2024 - Datasets and Benchmarks Track 🥳🔥
 * May 2024 - Graduated from CMU MS Engineering AI!!
 * July 2023 - Published [Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/) article!

@@ -25,7 +25,7 @@
     "href": "index.html#latest-news",
     "title": "Jean de Dieu Nyandwi",
     "section": "Latest News",
-    "text": "Latest News\n\nSep 2024 - NaturalBench was accepted to NeurIPS 2024 - Datasets and Benchmarks Track 🥳🔥\nMay 2024 - Graduated from CMU MS Engineering AI!!\nJuly 2023 - Published Transformer Blueprint article!\nOct 2022 - Listed in top 50 AI influencers by Onalytica\nSept 2022 - Nominated in DeepLearning.AI Event Ambassadors Spotlight 2022\nAug 2022 - Started MS AI at Carnegie Mellon University Africa\nMay 2022 - Complete Machine Learning Package is now available on web"
+    "text": "Latest News\n\nOct 2024 - NaturalBench paper is now publicly available on ArXiv!!\nSep 2024 - NaturalBench was accepted to NeurIPS 2024 - Datasets and Benchmarks Track 🥳🔥\nMay 2024 - Graduated from CMU MS Engineering AI!!\nJuly 2023 - Published Transformer Blueprint article!\nOct 2022 - Listed in top 50 AI influencers by Onalytica\nSept 2022 - Nominated in DeepLearning.AI Event Ambassadors Spotlight 2022\nAug 2022 - Started MS AI at Carnegie Mellon University Africa\nMay 2022 - Complete Machine Learning Package is now available on web"
   },
   {
     "objectID": "index.html#invited-talks",
@@ -46,7 +46,7 @@
     "href": "research.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\nNaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples\n\n[NeurIPS 2024] Baiqi Li*, Zhiqiu Lin*, Wenxuan Peng*, Jean de Dieu Nyandwi*, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, Deva Ramanan"
+    "text": "Publications\nPangea: A Fully Open Multilingual Multimodal LLM for 39 Languages | ArXiv | Webpage | Models | Code\nXiang Yue*, Yueqi Song*, Akari Asai, Seungone Kim, Jean de Dieu Nyandwi, Simran Khanuja, Anjali Kantharuban, Lintang Sutawika, Sathyanarayanan Ramamoorthy, Graham Neubig\n[NeurIPS 2024] NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples | ArXiv | Webpage | Benchmark\nBaiqi Li*, Zhiqiu Lin*, Wenxuan Peng*, Jean de Dieu Nyandwi*, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, Deva Ramanan"
   },
   {
     "objectID": "research.html#research-articles",
