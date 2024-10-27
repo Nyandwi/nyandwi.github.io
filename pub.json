@@ -1,0 +1,76 @@
+{
+  "publications": [
+    {
+      "type": "conference",
+      "title": "Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages",
+      "year": 2024,
+      "authors": [
+        "Xiang Yue*",
+        "Yueqi Song*",
+        "Akari Asai",
+        "Seungone Kim",
+        "Jean de Dieu Nyandwi",
+        "Simran Khanuja",
+        "Anjali Kantharuban",
+        "Lintang Sutawika",
+        "Sathyanarayanan Ramamoorthy",
+        "Graham Neubig"
+      ],
+      "venue": "Preprint",
+      "date": "2024",
+      "thumbnail": "extras/pangea.png",
+      "links": [
+        {
+          "label": "ArXiv",
+          "url": "https://arxiv.org/abs/2410.16153"
+        },
+        {
+          "label": "Webpage",
+          "url": "https://neulab.github.io/Pangea/"
+        },
+        {
+          "label": "Models",
+          "url": "https://huggingface.co/neulab/Pangea-7B"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/neulab/Pangea"
+        }
+      ]
+    },
+    {
+      "type": "conference",
+      "title": "NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples",
+      "year": 2024,
+      "authors": [
+        "Baiqi Li*",
+        "Zhiqiu Lin*",
+        "Wenxuan Peng*",
+        "Jean de Dieu Nyandwi*",
+        "Daniel Jiang",
+        "Zixian Ma",
+        "Simran Khanuja",
+        "Ranjay Krishna",
+        "Graham Neubig",
+        "Deva Ramanan"
+      ],
+      "venue": "NeurIPS",
+      "date": "2024",
+      "thumbnail": "extras/naturalbench.jpg",
+      "links": [
+        {
+          "label": "ArXiv",
+          "url": "https://arxiv.org/abs/2410.14669"
+        },
+        {
+          "label": "Webpage",
+          "url": "http://linzhiqiu.github.io/papers/naturalbench"
+        },
+        {
+          "label": "Benchmark",
+          "url": "https://huggingface.co/datasets/BaiqiL/NaturalBench/blob/main/README.md"
+        }
+      ]
+    }
+  ]
+}

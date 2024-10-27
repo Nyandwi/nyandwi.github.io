@@ -1,17 +1,72 @@
 ---
 title: "Jean de Dieu Nyandwi"
 toc: false
+format:
+  html:
+    execute:
+      echo: false
+      eval: true
+css: styles.css
+resources:
+    - extras/pangea.png
+    - extras/naturalbench.jpg
 ---
 
 I am Jean de Dieu Nyandwi. I work on machine learning and multimoda AI. I recently completed MS Engineering AI at Carnegie Mellon University. I have had a fortune to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing people at CMU, mostly working on evaluation and compositionality in visual language models. I also have interests in AI education and accessibility, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
+
+<center>
+<img src="profilepic.jpg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px"/>
+</center>
+<br>
 
 I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, majoring in machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.
 
 Beside technical works, I regularly workout, mostly resilience training and calisthenics, some basketball, and walks sometime.
 
-<center>
-<img src="profilepic.jpg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px"/>
-</center>
+## Publications
+
+
+```{ojs}
+publications = FileAttachment("pub.json").json()
+
+// Function to format authors - handles both string and array
+function formatAuthors(authors) {
+  if (typeof authors === 'string') return authors;
+  if (Array.isArray(authors)) return authors.join(", ");
+  return "";
+}
+
+// Create the HTML for publications
+html`<div class="pub-container">
+  ${publications.publications.map(pub => {
+    return `
+      <div class="pub-card">
+        <div class="pub-thumbnail">
+          <img src="${pub.thumbnail}" alt="${pub.title} thumbnail">
+        </div>
+        <div class="pub-content">
+          <div class="pub-header">
+            <h2 class="pub-title">${pub.title}</h2>
+            <span class="pub-year">${pub.year}</span>
+          </div>
+          <div class="pub-authors">
+            ${formatAuthors(pub.authors)}
+          </div>
+          <div class="pub-venue">
+            <strong>${pub.venue}</strong>, ${pub.date}
+            ${pub.media ? `• As seen on: <a href="${pub.media.url}" style="color: #0366d6;">${pub.media.name}</a>` : ''}
+          </div>
+          <div class="pub-links">
+            ${pub.links.map(link => 
+              `<a href="${link.url}" class="pub-link">${link.label}</a>`
+            ).join('')}
+          </div>
+        </div>
+      </div>
+    `
+  }).join('')}
+</div>`
+```
 
 ## Latest News
 

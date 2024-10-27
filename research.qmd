@@ -1,6 +1,12 @@
 ---
 title: "Research"
+# format:
+#   html:
+#     execute:
+#       echo: false
+#       eval: true
 toc: false
+# css: styles.css
 ---
 
 I am broadly interested in machine learning, computer vision and multimodal models. My research interests are right at the intersection of visual recognition and language models. More specifically, I am interested in designing better evaluation techniques for visual language models/multimodal generative models, studying their robustness and improving their understanding on visual language tasks.
@@ -22,3 +28,47 @@ Baiqi Li^\*^, Zhiqiu Lin^\*^, Wenxuan Peng^\*^, **Jean de Dieu Nyandwi^\*^**, Da
 ## Research Articles
 
 -   The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture \| [Blog](https://deeprevision.github.io/posts/001-transformer/) \| Views: 31K \| July 2023
+
+
+<!-- 
+```{ojs}
+publications = FileAttachment("pub.json").json()
+
+// Function to format authors - handles both string and array
+function formatAuthors(authors) {
+  if (typeof authors === 'string') return authors;
+  if (Array.isArray(authors)) return authors.join(", ");
+  return "";
+}
+
+// Create the HTML for publications
+html`<div class="pub-container">
+  ${publications.publications.map(pub => {
+    return `
+      <div class="pub-card">
+        <div class="pub-thumbnail">
+          <img src="${pub.thumbnail}" alt="${pub.title} thumbnail">
+        </div>
+        <div class="pub-content">
+          <div class="pub-header">
+            <h2 class="pub-title">${pub.title}</h2>
+            <span class="pub-year">${pub.year}</span>
+          </div>
+          <div class="pub-authors">
+            ${formatAuthors(pub.authors)}
+          </div>
+          <div class="pub-venue">
+            <strong>${pub.venue}</strong>, ${pub.date}
+            ${pub.media ? `• As seen on: <a href="${pub.media.url}" style="color: #0366d6;">${pub.media.name}</a>` : ''}
+          </div>
+          <div class="pub-links">
+            ${pub.links.map(link => 
+              `<a href="${link.url}" class="pub-link">${link.label}</a>`
+            ).join('')}
+          </div>
+        </div>
+      </div>
+    `
+  }).join('')}
+</div>`
+``` -->

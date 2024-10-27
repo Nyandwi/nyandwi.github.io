@@ -155,6 +155,48 @@ gtag('config', 'G-W0PE5HT9JD', { 'anonymize_ip': true});
 <ul>
 <li>The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture | <a href="https://deeprevision.github.io/posts/001-transformer/">Blog</a> | Views: 31K | July 2023</li>
 </ul>
+<!-- 
+
+publications = FileAttachment("pub.json").json()
+
+// Function to format authors - handles both string and array
+function formatAuthors(authors) {
+  if (typeof authors === 'string') return authors;
+  if (Array.isArray(authors)) return authors.join(", ");
+  return "";
+}
+
+// Create the HTML for publications
+html`<div class="pub-container">
+  ${publications.publications.map(pub => {
+    return `
+      <div class="pub-card">
+        <div class="pub-thumbnail">
+          <img src="${pub.thumbnail}" alt="${pub.title} thumbnail">
+        </div>
+        <div class="pub-content">
+          <div class="pub-header">
+            <h2 class="pub-title">${pub.title}</h2>
+            <span class="pub-year">${pub.year}</span>
+          </div>
+          <div class="pub-authors">
+            ${formatAuthors(pub.authors)}
+          </div>
+          <div class="pub-venue">
+            <strong>${pub.venue}</strong>, ${pub.date}
+            ${pub.media ? `• As seen on: <a href="${pub.media.url}" style="color: #0366d6;">${pub.media.name}</a>` : ''}
+          </div>
+          <div class="pub-links">
+            ${pub.links.map(link => 
+              `<a href="${link.url}" class="pub-link">${link.label}</a>`
+            ).join('')}
+          </div>
+        </div>
+      </div>
+    `
+  }).join('')}
+</div>`
+``` -->
 
 
 </section>
