@@ -1,12 +1,12 @@
 ---
 title: "Research"
-# format:
-#   html:
-#     execute:
-#       echo: false
-#       eval: true
+format:
+  html:
+    execute:
+      echo: false
+      eval: true
 toc: false
-# css: styles.css
+css: styles.css
 ---
 
 I am broadly interested in machine learning, computer vision and multimodal models. My research interests are right at the intersection of visual recognition and language models. More specifically, I am interested in designing better evaluation techniques for visual language models/multimodal generative models, studying their robustness and improving their understanding on visual language tasks.
@@ -15,22 +15,15 @@ Check my [Google Scholar](https://scholar.google.com/citations?user=X1KlIsQAAAAJ
 
 ## Publications
 
-**Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages** | [ArXiv](https://arxiv.org/abs/2410.16153) | [Webpage](https://neulab.github.io/Pangea/) | [Models](https://huggingface.co/neulab/Pangea-7B) | [Code](https://github.com/neulab/Pangea)
+<!-- **Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages** | [ArXiv](https://arxiv.org/abs/2410.16153) | [Webpage](https://neulab.github.io/Pangea/) | [Models](https://huggingface.co/neulab/Pangea-7B) | [Code](https://github.com/neulab/Pangea)
 
  Xiang Yue^\*^, Yueqi Song^\*^, Akari Asai, Seungone Kim, **Jean de Dieu Nyandwi**, Simran Khanuja, Anjali Kantharuban, Lintang Sutawika, Sathyanarayanan Ramamoorthy, Graham Neubig 
 
 
 **[NeurIPS 2024] NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples** | [ArXiv](https://arxiv.org/abs/2410.14669) | [Webpage](http://linzhiqiu.github.io/papers/naturalbench) | [Benchmark](https://huggingface.co/datasets/BaiqiL/NaturalBench/blob/main/README.md)
 
-Baiqi Li^\*^, Zhiqiu Lin^\*^, Wenxuan Peng^\*^, **Jean de Dieu Nyandwi^\*^**, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, Deva Ramanan
+Baiqi Li^\*^, Zhiqiu Lin^\*^, Wenxuan Peng^\*^, **Jean de Dieu Nyandwi^\*^**, Daniel Jiang, Zixian Ma, Simran Khanuja, Ranjay Krishna, Graham Neubig, Deva Ramanan -->
 
-
-## Research Articles
-
--   The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture \| [Blog](https://deeprevision.github.io/posts/001-transformer/) \| Views: 31K \| July 2023
-
-
-<!-- 
 ```{ojs}
 publications = FileAttachment("pub.json").json()
 
@@ -71,4 +64,9 @@ html`<div class="pub-container">
     `
   }).join('')}
 </div>`
-``` -->
+```
+
+
+## Research Articles
+
+-   The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture \| [Blog](https://deeprevision.github.io/posts/001-transformer/) \| Views: 31K \| July 2023
