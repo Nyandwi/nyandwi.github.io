@@ -70,13 +70,14 @@ html`<div class="pub-container">
 
 ## Latest News
 
+* Dec 2024 - Joining [Neulab](http://www.cs.cmu.edu/~neulab/index.html) at [LTI CMU](https://www.lti.cs.cmu.edu/) as a visiting researcher, working with and learning a lot from [Graham Neubig](https://phontron.com/) and the team 🤍🥳!!
 * Oct 2024 - We are releasing [Pangea-7B](https://neulab.github.io/Pangea), a fully open multilingual multimodal LLM that outperform existing open models in multilingual & culturally diverse contexts 🔥🔥. Release include models, code, training data, benchmark!!
 * Oct 2024 - NaturalBench paper is now publicly [available on ArXiv](https://arxiv.org/abs/2410.14669)!!
 * Sep 2024 - [NaturalBench](http://linzhiqiu.github.io/papers/naturalbench) was accepted to NeurIPS 2024 - Datasets and Benchmarks Track 🥳🔥
 * May 2024 - Graduated from CMU MS Engineering AI!!
-* July 2023 - Published [Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/) article!
+* Jul 2023 - Published [Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/) article!
 * Oct 2022 - Listed in [top 50 AI influencers](https://onalytica.com/blog/posts/whos-who-in-artificial-intelligence-top-50-influencers/) by Onalytica
-* Sept 2022 - Nominated in DeepLearning.AI Event Ambassadors [Spotlight](https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022/) 2022
+* Sep 2022 - Nominated in DeepLearning.AI Event Ambassadors [Spotlight](https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022/) 2022
 * Aug 2022 - Started MS AI at Carnegie Mellon University Africa
 * May 2022 - Complete Machine Learning Package [is now available](https://twitter.com/Jeande_d/status/1525091467324035075?s=20&t=On0KI3EyJ8Z7PDkrevNv-A) on [web](https://nyandwi.com/machine_learning_complete/)
 
