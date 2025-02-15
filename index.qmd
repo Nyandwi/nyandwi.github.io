@@ -12,16 +12,22 @@ resources:
     - extras/naturalbench.jpg
 ---
 
-I am Jean de Dieu Nyandwi. I work on machine learning and multimoda AI. I recently completed MS Engineering AI at Carnegie Mellon University. I have had a fortune to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing people at CMU, mostly working on evaluation and compositionality in visual language models. I also have interests in AI education and accessibility, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
+I am Jean de Dieu Nyandwi. I work on machine learning and multimoda AI, and currently a visiting researcher at CMU LTI, where I am fortune to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing people in Neulab and CMU.
 
 <center>
 <img src="profilepic.jpg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px"/>
 </center>
 <br>
 
-I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, majoring in machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.
+I recently completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, self-majoring in machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.
 
-Beside technical works, I regularly workout, mostly resilience training and calisthenics, some basketball, and walks sometime.
+Beside research, I also have interests in AI education and accessibility, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
+
+Outside technical works, I regularly workout, mostly resilience training, crossfit, calisthenics, basketball, and running.
+
+## Research Interests
+
+I am broadly interested in machine learning and multimodal AI. More specifically, I work on improving and evaluating vision language models.
 
 ## Publications
 
@@ -70,6 +76,7 @@ html`<div class="pub-container">
 
 ## Latest News
 
+* Jan 2025: [Pangea](https://neulab.github.io/Pangea) is accepted to ICLR 2025!!
 * Dec 2024 - Joining [Neulab](http://www.cs.cmu.edu/~neulab/index.html) at [LTI CMU](https://www.lti.cs.cmu.edu/) as a visiting researcher, working with and learning a lot from [Graham Neubig](https://phontron.com/) and the team 🤍🥳!!
 * Oct 2024 - We are releasing [Pangea-7B](https://neulab.github.io/Pangea), a fully open multilingual multimodal LLM that outperform existing open models in multilingual & culturally diverse contexts 🔥🔥. Release include models, code, training data, benchmark!!
 * Oct 2024 - NaturalBench paper is now publicly [available on ArXiv](https://arxiv.org/abs/2410.14669)!!
@@ -81,6 +88,7 @@ html`<div class="pub-container">
 * Aug 2022 - Started MS AI at Carnegie Mellon University Africa
 * May 2022 - Complete Machine Learning Package [is now available](https://twitter.com/Jeande_d/status/1525091467324035075?s=20&t=On0KI3EyJ8Z7PDkrevNv-A) on [web](https://nyandwi.com/machine_learning_complete/)
 
-## Invited Talks
+## Talks
 
-* June 2024 - Presented Multimodal LLMs at IndabaX Rwanda. Find slides [here](https://docs.google.com/presentation/d/1UKCfqOwFZtLynZ75aqdIBfQ328BD5X1jOE_Lt2ZROcM/edit?usp=sharing)!  
+* June 2024 - Presented Multimodal LLMs at IndabaX Rwanda. Find slides [here](https://docs.google.com/presentation/d/1UKCfqOwFZtLynZ75aqdIBfQ328BD5X1jOE_Lt2ZROcM/edit?usp=sharing).
+* May 2024 - Talked about Vision Language Models/Multimodal LLMs in [CMU 18661 Introduction to Machine Learning](https://18661.github.io/) in Student Research Lecture.
