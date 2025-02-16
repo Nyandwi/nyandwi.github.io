@@ -19,7 +19,7 @@ I am Jean de Dieu Nyandwi. I work on machine learning and multimoda AI, and curr
 </center>
 <br>
 
-I recently completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, self-majoring in machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.
+I recently completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, learning machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.
 
 Beside research, I also have interests in AI education and accessibility, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
 
