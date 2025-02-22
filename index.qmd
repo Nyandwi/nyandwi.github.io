@@ -27,7 +27,7 @@ Outside technical works, I regularly workout, mostly resilience training, crossf
 
 ## Research Interests
 
-I am broadly interested in machine learning and multimodal AI. More specifically, I work on improving and evaluating vision language models.
+I am broadly interested in machine learning and multimodal AI. More specifically, I work on improving and evaluating vision language models. I am currently exploring multimodal postraining methods, improving visual reasoning in VLMs, and making AI useful for general population.
 
 ## Publications
 

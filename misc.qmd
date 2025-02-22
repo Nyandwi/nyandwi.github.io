@@ -4,3 +4,5 @@ toc: false
 ---
 
 Page under heavy development :D
+
+(random links, unstructured notes, personal digital gallery, readings/writing, etc.)
