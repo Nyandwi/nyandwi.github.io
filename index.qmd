@@ -12,7 +12,7 @@ resources:
     - extras/naturalbench.jpg
 ---
 
-I am Jean de Dieu Nyandwi. I work on machine learning and multimoda AI, and currently a visiting researcher at CMU LTI, where I am fortune to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing people in Neulab and CMU.
+I am Jean de Dieu Nyandwi. I work on machine learning and multimoda AI, and currently a visiting researcher at CMU LTI, where I am fortune to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing people in [Neulab](https://www.cs.cmu.edu/~neulab/) and CMU.
 
 <center>
 <img src="profilepic.jpg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px"/>
@@ -27,7 +27,7 @@ Outside technical works, I regularly workout, mostly resilience training, crossf
 
 ## Research Interests
 
-I am broadly interested in machine learning and multimodal AI. More specifically, I work on improving and evaluating vision language models. I am currently exploring multimodal postraining methods, improving visual reasoning in VLMs, and making AI useful for general population.
+I am broadly interested in machine learning and multimodal AI. More specifically, I work on improving and evaluating vision language models. I am currently exploring multimodal post-training methods, improving visual reasoning in VLMs, and making AI useful for general population.
 
 ## Publications
 
