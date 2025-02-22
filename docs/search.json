@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Jean de Dieu Nyandwi",
     "section": "",
-    "text": "I am Jean de Dieu Nyandwi. I work on machine learning and multimoda AI, and currently a visiting researcher at CMU LTI, where I am fortune to work with Prof. Graham Neubig and other amazing people in Neulab and CMU.\nI recently completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, self-majoring in machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.\nBeside research, I also have interests in AI education and accessibility, and I spend a fair amount of time designing, exploring, and sharing learning resources.\nOutside technical works, I regularly workout, mostly resilience training, crossfit, calisthenics, basketball, and running."
+    "text": "I am Jean de Dieu Nyandwi. I work on machine learning and multimoda AI, and currently a visiting researcher at CMU LTI, where I am fortune to work with Prof. Graham Neubig and other amazing people in Neulab and CMU.\nI recently completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, learning machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.\nBeside research, I also have interests in AI education and accessibility, and I spend a fair amount of time designing, exploring, and sharing learning resources.\nOutside technical works, I regularly workout, mostly resilience training, crossfit, calisthenics, basketball, and running."
   },
   {
     "objectID": "index.html#latest-news",
@@ -131,5 +131,12 @@
     "title": "Jean de Dieu Nyandwi",
     "section": "Talks",
     "text": "Talks\n\nJune 2024 - Presented Multimodal LLMs at IndabaX Rwanda. Find slides here.\nMay 2024 - Talked about Vision Language Models/Multimodal LLMs in CMU 18661 Introduction to Machine Learning in Student Research Lecture."
+  },
+  {
+    "objectID": "misc.html",
+    "href": "misc.html",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "Page under heavy development :D"
   }
 ]

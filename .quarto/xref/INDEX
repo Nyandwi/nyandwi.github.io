@@ -31,5 +31,8 @@
   },
   "teaching.qmd": {
     "teaching.html": "60552797"
+  },
+  "misc.qmd": {
+    "misc.html": "105de117"
   }
 }
