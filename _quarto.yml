@@ -5,6 +5,7 @@ project:
 website:
   site-url: nyandwi.com
   title: "Jean Nyandwi"
+  favicon: extras/cmu_favicon_32x32.png
   search: false
   google-analytics: "G-W0PE5HT9JD"
   navbar:
