@@ -21,7 +21,7 @@ I am Jean de Dieu Nyandwi. I work on machine learning and multimodal AI, and cur
 
 I recently completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, learning machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.
 
-Beside research, I also have interests in AI education and accessibility, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
+Beside research, I also have interests in AI education and accessibility, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), [writing](https://deeprevision.github.io/) [deep dives](https://deeprevision.github.io/posts/001-transformer/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
 
 Outside technical works, I regularly workout, mostly resilience training, crossfit, calisthenics, basketball, and running.
 
