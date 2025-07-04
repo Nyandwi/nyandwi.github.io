@@ -1,5 +1,5 @@
 ---
-title: "Jean de Dieu Nyandwi"
+title: ""
 toc: false
 format:
   html:
@@ -11,6 +11,7 @@ resources:
     - extras/pangea.png
     - extras/naturalbench.jpg
 ---
+
 
 I am Jean de Dieu Nyandwi. I work on machine learning and multimodal AI, and currently a visiting researcher at CMU LTI, where I am fortune to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing people in [Neulab](https://www.cs.cmu.edu/~neulab/) and CMU.
 

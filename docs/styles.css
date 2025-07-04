@@ -8,6 +8,23 @@
     color: #ffffff;
 } */
 
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Castoro&display=swap");
+
+html {
+  font-family: "Noto Sans", "Castoro", sans-serif !important;
+  font-size: 15.5px !important;
+  line-height: 1.5     !important;
+}
+/* shrink everything by ~6% (16px → ~15px) */
+:root {
+  font-size: 95.75%;
+}
+
+body {
+  line-height: 1.5;
+}
+
+
 .pub-container {
     max-width: 1200px;
     margin: 20px auto;
@@ -101,3 +118,8 @@
         height: 200px;
     }
 }
+
+body {
+  font-family: 'Noto Sans', 'Castoro', sans-serif;
+}
+
