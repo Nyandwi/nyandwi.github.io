@@ -7,11 +7,18 @@
     "text": "A New blog\n\n\n\n\n\n\n\n\n\n\n\nJul 6, 2024\n\n\nJean Nyandwi\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "misc.html",
+    "href": "misc.html",
+    "title": "Miscellaneous",
     "section": "",
-    "text": "Download CV (PDF)"
+    "text": "Page under heavy development :D\n(random links, unstructured notes, personal digital gallery, readings/writing, etc.)"
+  },
+  {
+    "objectID": "notes/01_softblog.html",
+    "href": "notes/01_softblog.html",
+    "title": "Non-technical notes",
+    "section": "",
+    "text": "I have been yearning a lot about writing things that are not related to technical topics. There are times ideas sparks and either end up on social media status(which is not the right medium of sharing ideas, also hard to resist attention seeking that comes with it), my internal private notes, or simply life happens and I move on. And again and again.\nSo I am trying this new things where I write about whatever comes on my mind without the fear of judgment that comes with sharing one’s mind online. The vast majority of people follow me for technical things and I do not think anyone will see this(if you do, ping me on X and I will update this page).\nThe posts are really my notes or things I do want to read. They should be small and I am not going to spend a huge chunk of time on writing this as I have bigger topics on the other side. This really is to capture serendipitous moments while they are still alive. I have noticed that when I am happy, my mind subconsciously generates things. This is a place for those things. Low commitment, short, and one theme. Let’s gooo!!"
   },
   {
     "objectID": "index.html",
@@ -21,6 +28,20 @@
     "text": "I am Jean de Dieu Nyandwi. I work on machine learning and multimodal AI, and currently a visiting researcher at CMU LTI, where I am fortune to work with Prof. Graham Neubig and other amazing people in Neulab and CMU.\nI recently completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, learning machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.\nBeside research, I also have interests in AI education and accessibility, and I spend a fair amount of time designing, writing deep dives, exploring, and sharing learning resources.\nOutside technical works, I regularly workout, mostly resilience training, crossfit, calisthenics, basketball, and running."
   },
   {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Jean Nyandwi",
+    "section": "Research Interests",
+    "text": "Research Interests\nI am broadly interested in machine learning and multimodal AI. More specifically, I work on improving and evaluating vision language models. I am currently exploring multimodal post-training methods, improving visual reasoning in VLMs, and making AI useful for general population."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Jean Nyandwi",
+    "section": "Publications",
+    "text": "Publications\n\npublications = FileAttachment(\"pub.json\").json()\n\n// Function to format authors - handles both string and array\nfunction formatAuthors(authors) {\n  if (typeof authors === 'string') return authors;\n  if (Array.isArray(authors)) return authors.join(\", \");\n  return \"\";\n}\n\n// Create the HTML for publications\nhtml`&lt;div class=\"pub-container\"&gt;\n  ${publications.publications.map(pub =&gt; {\n    return `\n      &lt;div class=\"pub-card\"&gt;\n        &lt;div class=\"pub-thumbnail\"&gt;\n          &lt;img src=\"${pub.thumbnail}\" alt=\"${pub.title} thumbnail\"&gt;\n        &lt;/div&gt;\n        &lt;div class=\"pub-content\"&gt;\n          &lt;div class=\"pub-header\"&gt;\n            &lt;h2 class=\"pub-title\"&gt;${pub.title}&lt;/h2&gt;\n            &lt;span class=\"pub-year\"&gt;${pub.year}&lt;/span&gt;\n          &lt;/div&gt;\n          &lt;div class=\"pub-authors\"&gt;\n            ${formatAuthors(pub.authors)}\n          &lt;/div&gt;\n          &lt;div class=\"pub-venue\"&gt;\n            &lt;strong&gt;${pub.venue}&lt;/strong&gt;, ${pub.date}\n            ${pub.media ? `• As seen on: &lt;a href=\"${pub.media.url}\" style=\"color: #0366d6;\"&gt;${pub.media.name}&lt;/a&gt;` : ''}\n          &lt;/div&gt;\n          &lt;div class=\"pub-links\"&gt;\n            ${pub.links.map(link =&gt; \n              `&lt;a href=\"${link.url}\" class=\"pub-link\"&gt;${link.label}&lt;/a&gt;`\n            ).join('')}\n          &lt;/div&gt;\n        &lt;/div&gt;\n      &lt;/div&gt;\n    `\n  }).join('')}\n&lt;/div&gt;`"
+  },
+  {
     "objectID": "index.html#latest-news",
     "href": "index.html#latest-news",
     "title": "Jean Nyandwi",
@@ -28,11 +49,11 @@
     "text": "Latest News\n\nJan 2025: Pangea is accepted to ICLR 2025!!\nDec 2024 - Joining Neulab at LTI CMU as a visiting researcher, working with and learning a lot from Graham Neubig and the team 🤍🥳!!\nOct 2024 - We are releasing Pangea-7B, a fully open multilingual multimodal LLM that outperform existing open models in multilingual & culturally diverse contexts 🔥🔥. Release include models, code, training data, benchmark!!\nOct 2024 - NaturalBench paper is now publicly available on ArXiv!!\nSep 2024 - NaturalBench was accepted to NeurIPS 2024 - Datasets and Benchmarks Track 🥳🔥\nMay 2024 - Graduated from CMU MS Engineering AI!!\nJul 2023 - Published Transformer Blueprint article!\nOct 2022 - Listed in top 50 AI influencers by Onalytica\nSep 2022 - Nominated in DeepLearning.AI Event Ambassadors Spotlight 2022\nAug 2022 - Started MS AI at Carnegie Mellon University Africa\nMay 2022 - Complete Machine Learning Package is now available on web"
   },
   {
-    "objectID": "index.html#invited-talks",
-    "href": "index.html#invited-talks",
-    "title": "Jean de Dieu Nyandwi",
-    "section": "Invited Talks",
-    "text": "Invited Talks\n\nJune 2024 - Presented Multimodal LLMs at IndabaX Rwanda. Find slides here!"
+    "objectID": "index.html#talks",
+    "href": "index.html#talks",
+    "title": "Jean Nyandwi",
+    "section": "Talks",
+    "text": "Talks\n\nJune 2024 - Presented Multimodal LLMs at IndabaX Rwanda. Find slides here.\nMay 2024 - Talked about Vision Language Models/Multimodal LLMs in CMU 18661 Introduction to Machine Learning in Student Research Lecture."
   },
   {
     "objectID": "research.html",
@@ -56,6 +77,20 @@
     "text": "Research Articles\n\nThe Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture | Blog | Views: 31K | July 2023"
   },
   {
+    "objectID": "xyz.html",
+    "href": "xyz.html",
+    "title": "Personal Notes",
+    "section": "",
+    "text": "Non technical notes"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I very much enjoy teaching and talking about topics and things that I work on. I previously conducted a number of teaching activities around machine learning, deep learning, computer vision, and language models.\n\nTeaching Assistant\nI was teaching assistant at Carnegie Mellon University in Introduction to Machine Learning and Introduction to Deep Learning. In both courses, I assisted with creating assessments, helping students with understanding technical materials via recitations and office hours, managing course websites and updating contents. In Introduction to Machine Learning, I gave a student lecture on Multimodal LLMs(slides here), something that I have been working on recently.\n\n\nIntroduction to Deep Learning for NLP - Mbaza NLP\nI co-instructed two months-long course on Deep Learning for NLP at Digital Transformation Center Kigali in Colloboration with Mbaza NLP. The course covered a range of topics from deep learning architectures, handling language data, best practices and relevant practicals. Here are some of the course materials.\n\n\nDeep Learning Instructor - The Python Academy\nI designed and was the instructor for Deep Learning certification bootcamp at The PyThon Academy. The bootcamp covered deep learning fundamentals and techniques with applications in NLP and computer vision. The students gained valuable and practical experience and used the gained knowledge to pass TensorFlow Certification Program organized by Google.\n\n\nAI for Everyone on the Web\nI regularly create online learning resources around AI and machine learning. Complete Machine Learning Package and Transformer video & article are most popular examples, you can find other resources here.\nAI Education is something that I deeply care about and hope to make significant contributions in the field :-).\n\nPS: My first real job, on a contract basis, was teaching English, social sciences, and maths at a primary school. This was right after completing high school, during the gap year prior to starting college."
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "A New blog",
@@ -68,6 +103,13 @@
     "title": "About",
     "section": "",
     "text": "I am Jean de Dieu Nyandwi. I work on visual language models(VLMs). I recently completed MS Engineering AI at Carnegie Mellon University. I have had a fortune to work with Prof. Graham Neubig and other amazing people at CMU, mostly working on evaluation and compositionality in visual language models. I also have interests in AI education and accessibility, and I spend a fair amount of time designing, exploring, and sharing learning resources.\nBeside technical works, I regularly workout, mostly resilience training and calisthenics, some basketball, and walks sometime."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)"
   },
   {
     "objectID": "resources.html",
@@ -89,54 +131,5 @@
     "title": "Resources",
     "section": "Code and Tutorials",
     "text": "Code and Tutorials\n\nDeep Learning for Computer Vision Package\n\n[Github] [Nbviewer] [Colab]\nDeep Learning for Computer Vision covers foundations of computer vision and deep learning, state-of-the-arts visual architectures(such as ConvNets and Vision Transformers), various Computer Vision tasks(such as image classification, object detection and segmentation), tips and tricks for training and analyzing visual recognition systems.\n\n\nComplete Machine Learning Package\n\n[Web] [Github] [Nbviewer] [Colab]\nComplete Machine Learning Package is a comprehensive repository containing 30+ notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP).\n\n\nModern Convolutional Neural Network Architectures(ModernConvNets)\n\n[Github] [Nbviewer] [Colab]\nRevision of the designs, implementations, and annotated papers of 13 Modern Convolutional Neural Network architectures: AlexNet, GoogLeNet(Inceptionv1), ResNet, ResNeXt, Xception, DenseNet, MobileNetV1, MobileNetV2, EfficientNet, RegNet, ConvMixer, ConvNeXt."
-  },
-  {
-    "objectID": "xyz.html",
-    "href": "xyz.html",
-    "title": "Personal Notes",
-    "section": "",
-    "text": "Non technical notes"
-  },
-  {
-    "objectID": "notes/01_softblog.html",
-    "href": "notes/01_softblog.html",
-    "title": "Non-technical notes",
-    "section": "",
-    "text": "I have been yearning a lot about writing things that are not related to technical topics. There are times ideas sparks and either end up on social media status(which is not the right medium of sharing ideas, also hard to resist attention seeking that comes with it), my internal private notes, or simply life happens and I move on. And again and again.\nSo I am trying this new things where I write about whatever comes on my mind without the fear of judgment that comes with sharing one’s mind online. The vast majority of people follow me for technical things and I do not think anyone will see this(if you do, ping me on X and I will update this page).\nThe posts are really my notes or things I do want to read. They should be small and I am not going to spend a huge chunk of time on writing this as I have bigger topics on the other side. This really is to capture serendipitous moments while they are still alive. I have noticed that when I am happy, my mind subconsciously generates things. This is a place for those things. Low commitment, short, and one theme. Let’s gooo!!"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "I very much enjoy teaching and talking about topics and things that I work on. I previously conducted a number of teaching activities around machine learning, deep learning, computer vision, and language models.\n\nTeaching Assistant\nI was teaching assistant at Carnegie Mellon University in Introduction to Machine Learning and Introduction to Deep Learning. In both courses, I assisted with creating assessments, helping students with understanding technical materials via recitations and office hours, managing course websites and updating contents. In Introduction to Machine Learning, I gave a student lecture on Multimodal LLMs(slides here), something that I have been working on recently.\n\n\nIntroduction to Deep Learning for NLP - Mbaza NLP\nI co-instructed two months-long course on Deep Learning for NLP at Digital Transformation Center Kigali in Colloboration with Mbaza NLP. The course covered a range of topics from deep learning architectures, handling language data, best practices and relevant practicals. Here are some of the course materials.\n\n\nDeep Learning Instructor - The Python Academy\nI designed and was the instructor for Deep Learning certification bootcamp at The PyThon Academy. The bootcamp covered deep learning fundamentals and techniques with applications in NLP and computer vision. The students gained valuable and practical experience and used the gained knowledge to pass TensorFlow Certification Program organized by Google.\n\n\nAI for Everyone on the Web\nI regularly create online learning resources around AI and machine learning. Complete Machine Learning Package and Transformer video & article are most popular examples, you can find other resources here.\nAI Education is something that I deeply care about and hope to make significant contributions in the field :-).\n\nPS: My first real job, on a contract basis, was teaching English, social sciences, and maths at a primary school. This was right after completing high school, during the gap year prior to starting college."
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Jean Nyandwi",
-    "section": "Publications",
-    "text": "Publications\n\npublications = FileAttachment(\"pub.json\").json()\n\n// Function to format authors - handles both string and array\nfunction formatAuthors(authors) {\n  if (typeof authors === 'string') return authors;\n  if (Array.isArray(authors)) return authors.join(\", \");\n  return \"\";\n}\n\n// Create the HTML for publications\nhtml`&lt;div class=\"pub-container\"&gt;\n  ${publications.publications.map(pub =&gt; {\n    return `\n      &lt;div class=\"pub-card\"&gt;\n        &lt;div class=\"pub-thumbnail\"&gt;\n          &lt;img src=\"${pub.thumbnail}\" alt=\"${pub.title} thumbnail\"&gt;\n        &lt;/div&gt;\n        &lt;div class=\"pub-content\"&gt;\n          &lt;div class=\"pub-header\"&gt;\n            &lt;h2 class=\"pub-title\"&gt;${pub.title}&lt;/h2&gt;\n            &lt;span class=\"pub-year\"&gt;${pub.year}&lt;/span&gt;\n          &lt;/div&gt;\n          &lt;div class=\"pub-authors\"&gt;\n            ${formatAuthors(pub.authors)}\n          &lt;/div&gt;\n          &lt;div class=\"pub-venue\"&gt;\n            &lt;strong&gt;${pub.venue}&lt;/strong&gt;, ${pub.date}\n            ${pub.media ? `• As seen on: &lt;a href=\"${pub.media.url}\" style=\"color: #0366d6;\"&gt;${pub.media.name}&lt;/a&gt;` : ''}\n          &lt;/div&gt;\n          &lt;div class=\"pub-links\"&gt;\n            ${pub.links.map(link =&gt; \n              `&lt;a href=\"${link.url}\" class=\"pub-link\"&gt;${link.label}&lt;/a&gt;`\n            ).join('')}\n          &lt;/div&gt;\n        &lt;/div&gt;\n      &lt;/div&gt;\n    `\n  }).join('')}\n&lt;/div&gt;`"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Jean Nyandwi",
-    "section": "Research Interests",
-    "text": "Research Interests\nI am broadly interested in machine learning and multimodal AI. More specifically, I work on improving and evaluating vision language models. I am currently exploring multimodal post-training methods, improving visual reasoning in VLMs, and making AI useful for general population."
-  },
-  {
-    "objectID": "index.html#talks",
-    "href": "index.html#talks",
-    "title": "Jean Nyandwi",
-    "section": "Talks",
-    "text": "Talks\n\nJune 2024 - Presented Multimodal LLMs at IndabaX Rwanda. Find slides here.\nMay 2024 - Talked about Vision Language Models/Multimodal LLMs in CMU 18661 Introduction to Machine Learning in Student Research Lecture."
-  },
-  {
-    "objectID": "misc.html",
-    "href": "misc.html",
-    "title": "Miscellaneous",
-    "section": "",
-    "text": "Page under heavy development :D\n(random links, unstructured notes, personal digital gallery, readings/writing, etc.)"
   }
 ]
