@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "About Me"
 toc: false
 format:
   html:
@@ -77,7 +77,10 @@ html`<div class="pub-container">
 
 ## Latest News
 
-* Jan 2025: [Pangea](https://neulab.github.io/Pangea) is accepted to ICLR 2025!!
+* Aug 2025 - [CulturalGround](https://huggingface.co/datasets/neulab/CulturalGround) is accepted in EMNLP(Main Conference) 2025!!
+* Aug 2025 - We are releasing [CulturalGround](https://huggingface.co/datasets/neulab/CulturalGround), the largest multilingual/cultural VQA dataset! [ArXiv preprint](https://arxiv.org/abs/2508.07414) also available now. 
+* July 2025: Gave a smoll guest lecture on ML Lifecycle at ALU. Slides [here](https://docs.google.com/presentation/d/1b60xdBCpfq4GwJzeA5zejN8jynUlhNYKMv3r5VI2YS8/edit?usp=sharing).
+* Jan 2025 - [Pangea](https://neulab.github.io/Pangea) is accepted to ICLR 2025!!
 * Dec 2024 - Joining [Neulab](http://www.cs.cmu.edu/~neulab/index.html) at [LTI CMU](https://www.lti.cs.cmu.edu/) as a visiting researcher, working with and learning a lot from [Graham Neubig](https://phontron.com/) and the team 🤍🥳!!
 * Oct 2024 - We are releasing [Pangea-7B](https://neulab.github.io/Pangea), a fully open multilingual multimodal LLM that outperform existing open models in multilingual & culturally diverse contexts 🔥🔥. Release include models, code, training data, benchmark!!
 * Oct 2024 - NaturalBench paper is now publicly [available on ArXiv](https://arxiv.org/abs/2410.14669)!!

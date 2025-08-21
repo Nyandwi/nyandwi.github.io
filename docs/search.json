@@ -23,35 +23,35 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jean Nyandwi",
+    "title": "About Me",
     "section": "",
     "text": "I am Jean de Dieu Nyandwi. I work on machine learning and multimodal AI, and currently a visiting researcher at CMU LTI, where I am fortune to work with Prof. Graham Neubig and other amazing people in Neulab and CMU.\nI recently completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, learning machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.\nBeside research, I also have interests in AI education and accessibility, and I spend a fair amount of time designing, writing deep dives, exploring, and sharing learning resources.\nOutside technical works, I regularly workout, mostly resilience training, crossfit, calisthenics, basketball, and running."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Jean Nyandwi",
+    "title": "About Me",
     "section": "Research Interests",
     "text": "Research Interests\nI am broadly interested in machine learning and multimodal AI. More specifically, I work on improving and evaluating vision language models. I am currently exploring multimodal post-training methods, improving visual reasoning in VLMs, and making AI useful for general population."
   },
   {
     "objectID": "index.html#publications",
     "href": "index.html#publications",
-    "title": "Jean Nyandwi",
+    "title": "About Me",
     "section": "Publications",
     "text": "Publications\n\npublications = FileAttachment(\"pub.json\").json()\n\n// Function to format authors - handles both string and array\nfunction formatAuthors(authors) {\n  if (typeof authors === 'string') return authors;\n  if (Array.isArray(authors)) return authors.join(\", \");\n  return \"\";\n}\n\n// Create the HTML for publications\nhtml`&lt;div class=\"pub-container\"&gt;\n  ${publications.publications.map(pub =&gt; {\n    return `\n      &lt;div class=\"pub-card\"&gt;\n        &lt;div class=\"pub-thumbnail\"&gt;\n          &lt;img src=\"${pub.thumbnail}\" alt=\"${pub.title} thumbnail\"&gt;\n        &lt;/div&gt;\n        &lt;div class=\"pub-content\"&gt;\n          &lt;div class=\"pub-header\"&gt;\n            &lt;h2 class=\"pub-title\"&gt;${pub.title}&lt;/h2&gt;\n            &lt;span class=\"pub-year\"&gt;${pub.year}&lt;/span&gt;\n          &lt;/div&gt;\n          &lt;div class=\"pub-authors\"&gt;\n            ${formatAuthors(pub.authors)}\n          &lt;/div&gt;\n          &lt;div class=\"pub-venue\"&gt;\n            &lt;strong&gt;${pub.venue}&lt;/strong&gt;, ${pub.date}\n            ${pub.media ? `• As seen on: &lt;a href=\"${pub.media.url}\" style=\"color: #0366d6;\"&gt;${pub.media.name}&lt;/a&gt;` : ''}\n          &lt;/div&gt;\n          &lt;div class=\"pub-links\"&gt;\n            ${pub.links.map(link =&gt; \n              `&lt;a href=\"${link.url}\" class=\"pub-link\"&gt;${link.label}&lt;/a&gt;`\n            ).join('')}\n          &lt;/div&gt;\n        &lt;/div&gt;\n      &lt;/div&gt;\n    `\n  }).join('')}\n&lt;/div&gt;`"
   },
   {
     "objectID": "index.html#latest-news",
     "href": "index.html#latest-news",
-    "title": "Jean Nyandwi",
+    "title": "About Me",
     "section": "Latest News",
-    "text": "Latest News\n\nJan 2025: Pangea is accepted to ICLR 2025!!\nDec 2024 - Joining Neulab at LTI CMU as a visiting researcher, working with and learning a lot from Graham Neubig and the team 🤍🥳!!\nOct 2024 - We are releasing Pangea-7B, a fully open multilingual multimodal LLM that outperform existing open models in multilingual & culturally diverse contexts 🔥🔥. Release include models, code, training data, benchmark!!\nOct 2024 - NaturalBench paper is now publicly available on ArXiv!!\nSep 2024 - NaturalBench was accepted to NeurIPS 2024 - Datasets and Benchmarks Track 🥳🔥\nMay 2024 - Graduated from CMU MS Engineering AI!!\nJul 2023 - Published Transformer Blueprint article!\nOct 2022 - Listed in top 50 AI influencers by Onalytica\nSep 2022 - Nominated in DeepLearning.AI Event Ambassadors Spotlight 2022\nAug 2022 - Started MS AI at Carnegie Mellon University Africa\nMay 2022 - Complete Machine Learning Package is now available on web"
+    "text": "Latest News\n\nAug 2025 - CulturalGround is accepted in EMNLP(Main Conference) 2025!!\nAug 2025 - We are releasing CulturalGround, the largest multilingual/cultural VQA dataset! ArXiv preprint also available now.\nJuly 2025: Gave a smoll guest lecture on ML Lifecycle at ALU. Slides here.\nJan 2025 - Pangea is accepted to ICLR 2025!!\nDec 2024 - Joining Neulab at LTI CMU as a visiting researcher, working with and learning a lot from Graham Neubig and the team 🤍🥳!!\nOct 2024 - We are releasing Pangea-7B, a fully open multilingual multimodal LLM that outperform existing open models in multilingual & culturally diverse contexts 🔥🔥. Release include models, code, training data, benchmark!!\nOct 2024 - NaturalBench paper is now publicly available on ArXiv!!\nSep 2024 - NaturalBench was accepted to NeurIPS 2024 - Datasets and Benchmarks Track 🥳🔥\nMay 2024 - Graduated from CMU MS Engineering AI!!\nJul 2023 - Published Transformer Blueprint article!\nOct 2022 - Listed in top 50 AI influencers by Onalytica\nSep 2022 - Nominated in DeepLearning.AI Event Ambassadors Spotlight 2022\nAug 2022 - Started MS AI at Carnegie Mellon University Africa\nMay 2022 - Complete Machine Learning Package is now available on web"
   },
   {
     "objectID": "index.html#talks",
     "href": "index.html#talks",
-    "title": "Jean Nyandwi",
+    "title": "About Me",
     "section": "Talks",
     "text": "Talks\n\nJune 2024 - Presented Multimodal LLMs at IndabaX Rwanda. Find slides here.\nMay 2024 - Talked about Vision Language Models/Multimodal LLMs in CMU 18661 Introduction to Machine Learning in Student Research Lecture."
   },
