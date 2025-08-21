@@ -2,6 +2,38 @@
   "publications": [
     {
       "type": "conference",
+      "title": "Grounding Multilingual Multimodal LLMs With Cultural Knowledge",
+      "year": 2025,
+      "authors": [
+        "Jean de Dieu Nyandwi",
+        "Yueqi Song",
+        "Simran Khanuja",
+        "Graham Neubig"
+      ],
+      "venue": "EMNLP 2025/Conference on Empirical Methods in Natural Language Processing",
+      "date": "2025",
+      "thumbnail": "extras/culturalground.png",
+      "links": [
+        {
+          "label": "ArXiv",
+          "url": "https://arxiv.org/abs/2508.07414"
+        },
+        {
+          "label": "Webpage",
+          "url": "https://neulab.github.io/CulturalGround/"
+        },
+        {
+          "label": "Dataset",
+          "url": "https://huggingface.co/datasets/neulab/CulturalGround"
+        },
+        {
+          "label": "Models",
+          "url": "https://huggingface.co/neulab/CulturalPangea-7B"
+        }
+      ]
+    },
+    {
+      "type": "conference",
       "title": "Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages",
       "year": 2024,
       "authors": [
