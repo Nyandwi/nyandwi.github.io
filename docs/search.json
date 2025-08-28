@@ -32,7 +32,7 @@
     "href": "index.html#research-interests",
     "title": "About Me",
     "section": "Research Interests",
-    "text": "Research Interests\nI am broadly interested in machine learning and multimodal AI. More specifically, I work on improving and evaluating vision language models. I am currently exploring multimodal post-training methods, improving visual reasoning in VLMs, and making AI useful for general population."
+    "text": "Research Interests\nI am broadly interested in machine learning, natural language processing, and multimodal AI. More specifically, I work on improving and evaluating vision language models. I am currently exploring multimodal post-training, visual reasoning in VLMs, and data-efficient learning.\nI have previously worked on adversarial evaluation in VLMs(NeurIPS 2024), grounding world knowledge in multimodal LLMs(EMNLP 2025), and open-source multilingual/cultural multimodal LLMs(Pangea ICLR 2024, CulturalPangea EMNLP 2025)."
   },
   {
     "objectID": "index.html#publications",
