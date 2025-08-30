@@ -20,25 +20,26 @@ I am Jean de Dieu Nyandwi. I work on machine learning and multimodal AI, and cur
 </center>
 <br>
 
-I recently completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, learning machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.
-
-Beside research, I also have interests in AI education and accessibility, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), [writing](https://deeprevision.github.io/) [deep dives](https://deeprevision.github.io/posts/001-transformer/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
-
-Outside technical works, I regularly workout, mostly resilience training, crossfit, calisthenics, basketball, and running.
-
 :::{.d-flex .justify-content-center .gap-2 .flex-wrap .mt-2}
 [X/Twitter](https://x.com/jeande_d){.btn .btn-sm .btn-outline-secondary}
 [CV](https://nyandwi.com/extras/cv.pdf){.btn .btn-sm .btn-outline-secondary}
 [Google Scholar](https://scholar.google.com/citations?user=X1KlIsQAAAAJ&hl=en){.btn .btn-sm .btn-outline-secondary}
 [GitHub](https://github.com/Nyandwi){.btn .btn-sm .btn-outline-secondary}
 [Email](mailto:jeandedi@andrew.cmu.edu){.btn .btn-sm .btn-outline-secondary}
+[LinkedIn](https://www.linkedin.com/in/nyandwi/){.btn .btn-sm .btn-outline-secondary}
 :::
+
+I recently completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, learning machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.
+
+Beside research, I also have interests in AI education and accessibility, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), [writing](https://deeprevision.github.io/) [deep dives](https://deeprevision.github.io/posts/001-transformer/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
+
+Outside technical works, I regularly workout, mostly resilience training, crossfit, calisthenics, basketball, and running.
 
 ## Research Interests
 
 I am broadly interested in machine learning, natural language processing, and multimodal AI. More specifically, I work on improving and evaluating vision language models. I am currently exploring multimodal post-training, visual reasoning in VLMs, and data-efficient learning.
 
-I have previously worked on adversarial evaluation in VLMs(NeurIPS 2024), grounding world knowledge in multimodal LLMs(EMNLP 2025), and open-source multilingual/cultural multimodal LLMs(Pangea ICLR 2024, CulturalPangea EMNLP 2025).
+I have previously worked on adversarial evaluation in VLMs(NeurIPS 2024), grounding world knowledge in multimodal LLMs(EMNLP 2025), and open-source multilingual/cultural multimodal LLMs (CulturalPangea EMNLP 2025, Pangea ICLR 2024).
 
 ## Publications
 

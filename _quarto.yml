@@ -18,8 +18,8 @@ website:
         href: teaching.qmd
       - text: "Resources"
         href: resources.qmd
-      - text: "Misc"
-        href: misc.qmd
+      # - text: "Misc"
+      #   href: misc.qmd
       - icon: github
         href: https://github.com/Nyandwi
       - icon: twitter
