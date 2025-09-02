@@ -12,8 +12,8 @@ website:
     right:
       # - text: "About"
       #   href: index.qmd
-      - text: "Research"
-        href: research.qmd
+      # - text: "Research"
+      #   href: research.qmd
       - text: "Teaching"
         href: teaching.qmd
       - text: "Resources"
