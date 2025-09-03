@@ -12,8 +12,11 @@ resources:
     - extras/naturalbench.jpg
 ---
 
+I am Jean de Dieu Nyandwi. I work on machine learning and multimodal AI and am currently a visiting researcher at CMU’s Language Technologies Institute (NeuLab), where I am fortunate to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing colleagues at [Neulab](https://www.cs.cmu.edu/~neulab/) and across CMU. I have also had the privilege of collaborating with [Prof. Deva Ramanan](https://cs.cmu.edu/~deva).
 
-I am Jean de Dieu Nyandwi. I work on machine learning and multimodal AI, and currently a visiting researcher at CMU LTI, where I am fortune to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing people in [Neulab](https://www.cs.cmu.edu/~neulab/) and CMU.
+I am broadly interested in machine learning, natural language processing, multimodal recognition, and data-centric approaches. I am currently interested in multimodal post-training, multimodal reasoning, and data-efficient learning.
+
+I have previously worked on [natural adversarial evaluation in VLMs](https://arxiv.org/abs/2410.14669)(NaturalBench - NeurIPS 2024), [grounding multimodal LLMs with world knowledge](https://arxiv.org/abs/2508.07414)(EMNLP 2025), and open-source multilingual/cultural multimodal LLMs/datasets ([CulturalGround](https://huggingface.co/datasets/neulab/CulturalGround) - EMNLP 2025, [Pangea](https://arxiv.org/abs/2410.16153) - ICLR 2024).
 
 <center>
 <img src="profilepic.jpg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px"/>
@@ -29,17 +32,11 @@ I am Jean de Dieu Nyandwi. I work on machine learning and multimodal AI, and cur
 [LinkedIn](https://www.linkedin.com/in/nyandwi/){.btn .btn-sm .btn-outline-secondary}
 :::
 
-I completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, learning machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication, senior highschool.
+I completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering at University of Rwanda, learning machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication in senior highschool.
 
 Beside research, I also have interests in AI education and accessibility, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), [writing](https://deeprevision.github.io/) [deep dives](https://deeprevision.github.io/posts/001-transformer/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
 
 Outside technical works, I regularly workout, mostly resilience training, crossfit, calisthenics, basketball, and running.
-
-## Research Interests
-
-I am broadly interested in machine learning, natural language processing, and multimodal AI. More specifically, I work on improving and evaluating vision language models. I am currently exploring multimodal post-training, visual reasoning in VLMs, and data-efficient learning.
-
-I have previously worked on adversarial evaluation in VLMs(NeurIPS 2024), grounding world knowledge in multimodal LLMs(EMNLP 2025), and open-source multilingual/cultural multimodal LLMs (CulturalPangea EMNLP 2025, Pangea ICLR 2024).
 
 ## Publications
 
