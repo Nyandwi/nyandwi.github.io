@@ -10,6 +10,7 @@ css: styles.css
 resources:
     - extras/pangea.png
     - extras/naturalbench.jpg
+    - extras/culturalground.png
 ---
 
 I am Jean de Dieu Nyandwi. I work on machine learning and multimodal AI and am currently a visiting researcher at CMU’s Language Technologies Institute (NeuLab), where I am fortunate to work with [Prof. Graham Neubig](http://phontron.com/) and other amazing colleagues at [Neulab](https://www.cs.cmu.edu/~neulab/) and across CMU. I have also had the privilege of collaborating with [Prof. Deva Ramanan](https://cs.cmu.edu/~deva).
@@ -19,7 +20,7 @@ I am broadly interested in machine learning, natural language processing, multim
 I have previously worked on [natural adversarial evaluation in VLMs](https://arxiv.org/abs/2410.14669)(NaturalBench - NeurIPS 2024), [grounding multimodal LLMs with world knowledge](https://arxiv.org/abs/2508.07414)(EMNLP 2025), and open-source multilingual/cultural multimodal LLMs/datasets ([CulturalGround](https://huggingface.co/datasets/neulab/CulturalGround) - EMNLP 2025, [Pangea](https://arxiv.org/abs/2410.16153) - ICLR 2024).
 
 <center>
-<img src="profilepic.jpg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px"/>
+<img src="profilesf.jpeg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px"/>
 </center>
 <br>
 
@@ -37,6 +38,8 @@ I completed MS Engineering AI at Carnegie Mellon University. I did undergrad in 
 Beside research, I also have interests in AI education and accessibility, and I spend a fair amount of time [designing](https://nyandwi.com/machine_learning_complete/), [writing](https://deeprevision.github.io/) [deep dives](https://deeprevision.github.io/posts/001-transformer/), exploring, and [sharing](https://twitter.com/Jeande_d) learning resources.
 
 Outside technical works, I regularly workout, mostly resilience training, crossfit, calisthenics, basketball, and running.
+
+**Note: I am applying for PhD (Fall 2026). Please contact me at jeandedi@andrew.cmu.edu for callaboration or chat!**
 
 ## Publications
 
@@ -88,6 +91,7 @@ html`<div class="pub-container">
 -   The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture \| [Blog](https://deeprevision.github.io/posts/001-transformer/) \| Views: 31K \| July 2023
 
 ## Latest News
+* Nov 2025 - Presented my paper CulturalGround in Suzhou, China in EMNLP 2025 oral session. Also fortunate to present the work in [BoF - Multilingual and Multimodal LLMs for Everyday Knowledge](https://2025.emnlp.org/program/bof/#multilingual-and-multimodal-llms-for-everyday-knowledge). Check out [slides](https://docs.google.com/presentation/d/1rWQHk4__YE85dVLoSbPwFS2Eu_gO8cIzyJKQd3t_X-k/edit?usp=sharing).
 * Sep 2025 - Our [EMNLP 2025 paper](https://arxiv.org/abs/2508.07414) is selected for Oral presentation!
 * Aug 2025 - [CulturalGround](https://huggingface.co/datasets/neulab/CulturalGround) is accepted in EMNLP(Main Conference) 2025!!
 * Aug 2025 - We are releasing [CulturalGround](https://huggingface.co/datasets/neulab/CulturalGround), the largest multilingual/cultural VQA dataset! [ArXiv preprint](https://arxiv.org/abs/2508.07414) also available now. 

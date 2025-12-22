@@ -5,12 +5,12 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Jean Nyandwi</title>
+<title>Personal Webpage</title>
 <link>nyandwi.com/blog.html</link>
 <atom:link href="nyandwi.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.552</generator>
-<lastBuildDate>Sat, 06 Jul 2024 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Jul 2024 22:00:00 GMT</lastBuildDate>
 <item>
   <title>A New blog</title>
   <dc:creator>Jean Nyandwi</dc:creator>
@@ -28,7 +28,7 @@
  ]]></description>
   <category>news</category>
   <guid>nyandwi.com/posts/welcome/</guid>
-  <pubDate>Sat, 06 Jul 2024 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 05 Jul 2024 22:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -178,7 +178,7 @@ gtag('config', 'G-W0PE5HT9JD', { 'anonymize_ip': true});
 <p>I am broadly interested in machine learning, natural language processing, multimodal recognition, and data-centric approaches. I am currently interested in multimodal post-training, reasoning, and data curation/data-efficiency in VLMs.</p>
 <p>I have previously worked on <a href="https://arxiv.org/abs/2410.14669">natural adversarial evaluation in VLMs</a>(NaturalBench - NeurIPS 2024), <a href="https://arxiv.org/abs/2508.07414">grounding multimodal LLMs with world knowledge</a>(EMNLP 2025), and open-source multilingual/cultural multimodal LLMs/datasets (<a href="https://huggingface.co/datasets/neulab/CulturalGround">CulturalGround</a> - EMNLP 2025, <a href="https://arxiv.org/abs/2410.16153">Pangea</a> - ICLR 2024).</p>
 <center>
-<img src="profilepic.jpg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px">
+<img src="profilesf.jpeg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px">
 </center>
 <p><br></p>
 <div class="d-flex justify-content-center gap-2 flex-wrap mt-2">
@@ -187,48 +187,49 @@ gtag('config', 'G-W0PE5HT9JD', { 'anonymize_ip': true});
 <p>I completed MS Engineering AI at Carnegie Mellon University. I did undergrad in Electronics and Telecommunication Engineering, learning machine learning on the side. Prior to that, I achieved the top score, country wide, in Advanced Level National Examinations in Electronics and Telecommunication in senior highschool.</p>
 <p>Beside research, I also have interests in AI education and accessibility, and I spend a fair amount of time <a href="https://nyandwi.com/machine_learning_complete/">designing</a>, <a href="https://deeprevision.github.io/">writing</a> <a href="https://deeprevision.github.io/posts/001-transformer/">deep dives</a>, exploring, and <a href="https://twitter.com/Jeande_d">sharing</a> learning resources.</p>
 <p>Outside technical works, I regularly workout, mostly resilience training, crossfit, calisthenics, basketball, and running.</p>
+<p><strong>Note: I am applying for PhD (Fall 2026). Please contact me at jeandedi@andrew.cmu.edu for callaboration or chat!</strong></p>
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications">Publications</h2>
 <div class="cell">
-<div class="sourceCode cell-code hidden" id="cb1" data-startfrom="45" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 44;"><span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>publications <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"pub.json"</span>)<span class="op">.</span><span class="fu">json</span>()</span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a><span class="co">// Function to format authors - handles both string and array</span></span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a><span class="kw">function</span> <span class="fu">formatAuthors</span>(authors) {</span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span> (<span class="kw">typeof</span> authors <span class="op">===</span> <span class="st">'string'</span>) <span class="cf">return</span> authors<span class="op">;</span></span>
-<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span> (<span class="bu">Array</span><span class="op">.</span><span class="fu">isArray</span>(authors)) <span class="cf">return</span> authors<span class="op">.</span><span class="fu">join</span>(<span class="st">", "</span>)<span class="op">;</span></span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>  <span class="cf">return</span> <span class="st">""</span><span class="op">;</span></span>
-<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a><span class="co">// Create the HTML for publications</span></span>
-<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a><span class="fu">html</span><span class="vs">`&lt;div class="pub-container"&gt;</span></span>
-<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a><span class="vs">  </span><span class="sc">${</span>publications<span class="op">.</span><span class="at">publications</span><span class="op">.</span><span class="fu">map</span>(pub <span class="kw">=&gt;</span> {</span>
-<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> <span class="vs">`</span></span>
-<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;div class="pub-card"&gt;</span></span>
-<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a><span class="vs">        &lt;div class="pub-thumbnail"&gt;</span></span>
-<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;img src="</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">thumbnail</span><span class="sc">}</span><span class="vs">" alt="</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">title</span><span class="sc">}</span><span class="vs"> thumbnail"&gt;</span></span>
-<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a><span class="vs">        &lt;/div&gt;</span></span>
-<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a><span class="vs">        &lt;div class="pub-content"&gt;</span></span>
-<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;div class="pub-header"&gt;</span></span>
-<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a><span class="vs">            &lt;h2 class="pub-title"&gt;</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">title</span><span class="sc">}</span><span class="vs">&lt;/h2&gt;</span></span>
-<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a><span class="vs">            &lt;span class="pub-year"&gt;</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">year</span><span class="sc">}</span><span class="vs">&lt;/span&gt;</span></span>
-<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;/div&gt;</span></span>
-<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;div class="pub-authors"&gt;</span></span>
-<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a><span class="vs">            </span><span class="sc">${</span><span class="fu">formatAuthors</span>(pub<span class="op">.</span><span class="at">authors</span>)<span class="sc">}</span></span>
+<div class="sourceCode cell-code hidden" id="cb1" data-startfrom="48" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 47;"><span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>publications <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"pub.json"</span>)<span class="op">.</span><span class="fu">json</span>()</span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a><span class="co">// Function to format authors - handles both string and array</span></span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a><span class="kw">function</span> <span class="fu">formatAuthors</span>(authors) {</span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span> (<span class="kw">typeof</span> authors <span class="op">===</span> <span class="st">'string'</span>) <span class="cf">return</span> authors<span class="op">;</span></span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span> (<span class="bu">Array</span><span class="op">.</span><span class="fu">isArray</span>(authors)) <span class="cf">return</span> authors<span class="op">.</span><span class="fu">join</span>(<span class="st">", "</span>)<span class="op">;</span></span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a>  <span class="cf">return</span> <span class="st">""</span><span class="op">;</span></span>
+<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a><span class="co">// Create the HTML for publications</span></span>
+<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a><span class="fu">html</span><span class="vs">`&lt;div class="pub-container"&gt;</span></span>
+<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a><span class="vs">  </span><span class="sc">${</span>publications<span class="op">.</span><span class="at">publications</span><span class="op">.</span><span class="fu">map</span>(pub <span class="kw">=&gt;</span> {</span>
+<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> <span class="vs">`</span></span>
+<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;div class="pub-card"&gt;</span></span>
+<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a><span class="vs">        &lt;div class="pub-thumbnail"&gt;</span></span>
+<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;img src="</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">thumbnail</span><span class="sc">}</span><span class="vs">" alt="</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">title</span><span class="sc">}</span><span class="vs"> thumbnail"&gt;</span></span>
+<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a><span class="vs">        &lt;/div&gt;</span></span>
+<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a><span class="vs">        &lt;div class="pub-content"&gt;</span></span>
+<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;div class="pub-header"&gt;</span></span>
+<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a><span class="vs">            &lt;h2 class="pub-title"&gt;</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">title</span><span class="sc">}</span><span class="vs">&lt;/h2&gt;</span></span>
+<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a><span class="vs">            &lt;span class="pub-year"&gt;</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">year</span><span class="sc">}</span><span class="vs">&lt;/span&gt;</span></span>
 <span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;/div&gt;</span></span>
-<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;div class="pub-venue"&gt;</span></span>
-<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a><span class="vs">            &lt;strong&gt;</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">venue</span><span class="sc">}</span><span class="vs">&lt;/strong&gt;, </span><span class="sc">${</span>pub<span class="op">.</span><span class="at">date</span><span class="sc">}</span></span>
-<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a><span class="vs">            </span><span class="sc">${</span>pub<span class="op">.</span><span class="at">media</span> <span class="op">?</span> <span class="vs">`• As seen on: &lt;a href="</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">media</span><span class="op">.</span><span class="at">url</span><span class="sc">}</span><span class="vs">" style="color: #0366d6;"&gt;</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">media</span><span class="op">.</span><span class="at">name</span><span class="sc">}</span><span class="vs">&lt;/a&gt;`</span> <span class="op">:</span> <span class="st">''</span><span class="sc">}</span></span>
-<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;/div&gt;</span></span>
-<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;div class="pub-links"&gt;</span></span>
-<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a><span class="vs">            </span><span class="sc">${</span>pub<span class="op">.</span><span class="at">links</span><span class="op">.</span><span class="fu">map</span>(link <span class="kw">=&gt;</span> </span>
-<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a>              <span class="vs">`&lt;a href="</span><span class="sc">${</span>link<span class="op">.</span><span class="at">url</span><span class="sc">}</span><span class="vs">" class="pub-link"&gt;</span><span class="sc">${</span>link<span class="op">.</span><span class="at">label</span><span class="sc">}</span><span class="vs">&lt;/a&gt;`</span></span>
-<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a>            )<span class="op">.</span><span class="fu">join</span>(<span class="st">''</span>)<span class="sc">}</span></span>
-<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;/div&gt;</span></span>
-<span id="cb1-79"><a href="#cb1-79" aria-hidden="true" tabindex="-1"></a><span class="vs">        &lt;/div&gt;</span></span>
-<span id="cb1-80"><a href="#cb1-80" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;/div&gt;</span></span>
-<span id="cb1-81"><a href="#cb1-81" aria-hidden="true" tabindex="-1"></a><span class="vs">    `</span></span>
-<span id="cb1-82"><a href="#cb1-82" aria-hidden="true" tabindex="-1"></a>  })<span class="op">.</span><span class="fu">join</span>(<span class="st">''</span>)<span class="sc">}</span></span>
-<span id="cb1-83"><a href="#cb1-83" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;/div&gt;`</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;div class="pub-authors"&gt;</span></span>
+<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a><span class="vs">            </span><span class="sc">${</span><span class="fu">formatAuthors</span>(pub<span class="op">.</span><span class="at">authors</span>)<span class="sc">}</span></span>
+<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;/div&gt;</span></span>
+<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;div class="pub-venue"&gt;</span></span>
+<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a><span class="vs">            &lt;strong&gt;</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">venue</span><span class="sc">}</span><span class="vs">&lt;/strong&gt;, </span><span class="sc">${</span>pub<span class="op">.</span><span class="at">date</span><span class="sc">}</span></span>
+<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a><span class="vs">            </span><span class="sc">${</span>pub<span class="op">.</span><span class="at">media</span> <span class="op">?</span> <span class="vs">`• As seen on: &lt;a href="</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">media</span><span class="op">.</span><span class="at">url</span><span class="sc">}</span><span class="vs">" style="color: #0366d6;"&gt;</span><span class="sc">${</span>pub<span class="op">.</span><span class="at">media</span><span class="op">.</span><span class="at">name</span><span class="sc">}</span><span class="vs">&lt;/a&gt;`</span> <span class="op">:</span> <span class="st">''</span><span class="sc">}</span></span>
+<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;/div&gt;</span></span>
+<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;div class="pub-links"&gt;</span></span>
+<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a><span class="vs">            </span><span class="sc">${</span>pub<span class="op">.</span><span class="at">links</span><span class="op">.</span><span class="fu">map</span>(link <span class="kw">=&gt;</span> </span>
+<span id="cb1-79"><a href="#cb1-79" aria-hidden="true" tabindex="-1"></a>              <span class="vs">`&lt;a href="</span><span class="sc">${</span>link<span class="op">.</span><span class="at">url</span><span class="sc">}</span><span class="vs">" class="pub-link"&gt;</span><span class="sc">${</span>link<span class="op">.</span><span class="at">label</span><span class="sc">}</span><span class="vs">&lt;/a&gt;`</span></span>
+<span id="cb1-80"><a href="#cb1-80" aria-hidden="true" tabindex="-1"></a>            )<span class="op">.</span><span class="fu">join</span>(<span class="st">''</span>)<span class="sc">}</span></span>
+<span id="cb1-81"><a href="#cb1-81" aria-hidden="true" tabindex="-1"></a><span class="vs">          &lt;/div&gt;</span></span>
+<span id="cb1-82"><a href="#cb1-82" aria-hidden="true" tabindex="-1"></a><span class="vs">        &lt;/div&gt;</span></span>
+<span id="cb1-83"><a href="#cb1-83" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;/div&gt;</span></span>
+<span id="cb1-84"><a href="#cb1-84" aria-hidden="true" tabindex="-1"></a><span class="vs">    `</span></span>
+<span id="cb1-85"><a href="#cb1-85" aria-hidden="true" tabindex="-1"></a>  })<span class="op">.</span><span class="fu">join</span>(<span class="st">''</span>)<span class="sc">}</span></span>
+<span id="cb1-86"><a href="#cb1-86" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;/div&gt;`</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <div id="ojs-cell-1-1" data-nodetype="declaration">
@@ -261,6 +262,7 @@ gtag('config', 'G-W0PE5HT9JD', { 'anonymize_ip': true});
 <section id="latest-news" class="level2">
 <h2 class="anchored" data-anchor-id="latest-news">Latest News</h2>
 <ul>
+<li>Nov 2025 - Presented my paper CulturalGround in Suzhou, China in EMNLP 2025 oral session. Also fortunate to present the work in <a href="https://2025.emnlp.org/program/bof/#multilingual-and-multimodal-llms-for-everyday-knowledge">BoF - Multilingual and Multimodal LLMs for Everyday Knowledge</a>. Check out <a href="https://docs.google.com/presentation/d/1rWQHk4__YE85dVLoSbPwFS2Eu_gO8cIzyJKQd3t_X-k/edit?usp=sharing">slides</a>.</li>
 <li>Sep 2025 - Our <a href="https://arxiv.org/abs/2508.07414">EMNLP 2025 paper</a> is selected for Oral presentation!</li>
 <li>Aug 2025 - <a href="https://huggingface.co/datasets/neulab/CulturalGround">CulturalGround</a> is accepted in EMNLP(Main Conference) 2025!!</li>
 <li>Aug 2025 - We are releasing <a href="https://huggingface.co/datasets/neulab/CulturalGround">CulturalGround</a>, the largest multilingual/cultural VQA dataset! <a href="https://arxiv.org/abs/2508.07414">ArXiv preprint</a> also available now.</li>
