@@ -17,7 +17,7 @@ I am Jean de Dieu Nyandwi. I work on machine learning and multimodal AI and am c
 
 I am broadly interested in machine learning, natural language processing, multimodal recognition, and data-centric approaches. I am currently interested in multimodal post-training, reasoning, and data curation/data-efficiency in VLMs.
 
-I have previously worked on [natural adversarial evaluation in VLMs](https://arxiv.org/abs/2410.14669)(NaturalBench - NeurIPS 2024), [grounding multimodal LLMs with world knowledge](https://arxiv.org/abs/2508.07414)(EMNLP 2025), and open-source multilingual/cultural multimodal LLMs/datasets ([CulturalGround](https://huggingface.co/datasets/neulab/CulturalGround) - EMNLP 2025, [Pangea](https://arxiv.org/abs/2410.16153) - ICLR 2024).
+I have previously worked on [natural adversarial evaluation in VLMs](https://arxiv.org/abs/2410.14669)(NaturalBench - NeurIPS 2024), [grounding multimodal LLMs with world knowledge](https://arxiv.org/abs/2508.07414)(EMNLP 2025 Main/Oral), and open-source multilingual/cultural multimodal LLMs/datasets ([CulturalGround](https://huggingface.co/datasets/neulab/CulturalGround) - EMNLP 2025 Main/Oral, [Pangea](https://arxiv.org/abs/2410.16153) - ICLR 2024).
 
 <center>
 <img src="profilesf.jpeg" style="float:middle; width: 40%; display: block;margin-left: auto; margin-right: auto;border-radius: 9px"/>
@@ -105,10 +105,11 @@ html`<div class="pub-container">
 * Jul 2023 - Published [Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/) article!
 * Oct 2022 - Listed in [top 50 AI influencers](https://onalytica.com/blog/posts/whos-who-in-artificial-intelligence-top-50-influencers/) by Onalytica
 * Sep 2022 - Nominated in DeepLearning.AI Event Ambassadors [Spotlight](https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022/) 2022
-* Aug 2022 - Started MS AI at Carnegie Mellon University Africa
+* Aug 2022 - Started MS AI at Carnegie Mellon University (CMU)
 * May 2022 - Complete Machine Learning Package [is now available](https://twitter.com/Jeande_d/status/1525091467324035075?s=20&t=On0KI3EyJ8Z7PDkrevNv-A) on [web](https://nyandwi.com/machine_learning_complete/)
 
 ## Talks
 
-* June 2024 - Presented Multimodal LLMs at IndabaX Rwanda. Find slides [here](https://docs.google.com/presentation/d/1UKCfqOwFZtLynZ75aqdIBfQ328BD5X1jOE_Lt2ZROcM/edit?usp=sharing).
+* July 2025 - Guest Lecture on ML Lifecycle ALU. Slides [here](https://docs.google.com/presentation/d/1b60xdBCpfq4GwJzeA5zejN8jynUlhNYKMv3r5VI2YS8/edit?usp=sharing)
+* June 2024 - Presented Multimodal LLMs at IndabaX Rwanda. Slides [here](https://docs.google.com/presentation/d/1UKCfqOwFZtLynZ75aqdIBfQ328BD5X1jOE_Lt2ZROcM/edit?usp=sharing).
 * May 2024 - Talked about Vision Language Models/Multimodal LLMs in [CMU 18661 Introduction to Machine Learning](https://18661.github.io/) in Student Research Lecture.
