@@ -30,7 +30,7 @@
           <a href="https://github.com/Nyandwi">GitHub</a> ·
           <a href="https://x.com/jeande_d">Twitter</a> ·
           <a href="mailto:jeandedi@andrew.cmu.edu">Email</a> ·
-          <a href="extras/cv.pdf" target="_blank">CV</a> ·
+          <a href="extras/jean-nyandwi-cv-simple.pdf" target="_blank">CV</a> ·
           <a href="https://www.linkedin.com/in/nyandwi/">LinkedIn</a>
         </nav>
         <p>
@@ -221,9 +221,39 @@
         <li>I train regularly: crossfit, calisthenics, basketball, and running.</li>
         <li>I started playing basketball at 5 years old — mostly babysitting the ball.</li>
         <li>I was named one of the top 50 AI influencers globally by Onalytica in 2022.</li>
+        <li id="visit-fact">You are visitor <span id="visit-count-num">—</span> to this site — counting since May 18, 2026.</li>
       </ul>
     </section>
 
   </main>
+  <script>
+    (function () {
+      var numEl = document.getElementById('visit-count-num');
+      var factEl = document.getElementById('visit-fact');
+      if (!numEl || !factEl) return;
+
+      var cached = sessionStorage.getItem('nyandwi.visit-count');
+      if (cached) { render(parseInt(cached, 10)); return; }
+
+      fetch('https://api.counterapi.dev/v1/nyandwi-site/visits/hit')
+        .then(function (r) { return r.json(); })
+        .then(function (d) {
+          var n = d.count;
+          if (!Number.isFinite(n)) throw new Error();
+          sessionStorage.setItem('nyandwi.visit-count', n);
+          render(n);
+        })
+        .catch(function () { factEl.style.display = 'none'; });
+
+      function render(n) {
+        var mod100 = n % 100;
+        var suffix = (mod100 >= 11 && mod100 <= 13) ? 'th'
+          : (n % 10 === 1) ? 'st'
+          : (n % 10 === 2) ? 'nd'
+          : (n % 10 === 3) ? 'rd' : 'th';
+        numEl.textContent = '#' + n.toLocaleString() + suffix;
+      }
+    })();
+  </script>
 </body>
 </html>
